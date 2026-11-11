@@ -1,2107 +1,2239 @@
 {
-  "schemaVersion": 1,
-  "mapId": "drift-paradise",
-  "title": "Drift Paradise Interactive Map",
-  "categories": [
-    {
-      "id": "984c8c80-5376-4b3d-b2f4-40dabb030779",
-      "name": "Race",
-      "icon": 38,
-      "color": "#ffffff"
-    },
-    {
-      "id": "405b3665-82ab-4671-90f4-3565da3670dc",
-      "name": "Car Shop",
-      "icon": 825,
-      "color": "#c5a68c"
-    },
-    {
-      "id": "efcb0b5b-1aa8-4506-82fa-d0cbc7b6d9a9",
-      "name": "Parts Shop",
-      "icon": 402,
-      "color": "#c5a68c"
-    },
-    {
-      "id": "731ae5e7-48de-407a-b3f7-1027d0509f92",
-      "name": "Sticker Shop",
-      "icon": 72,
-      "color": "#c5a68c"
-    },
-    {
-      "id": "2082b95e-b662-41b4-8062-df281c59fe2a",
-      "name": "Workshop",
-      "icon": 837,
-      "color": "#5db6e5"
-    },
-    {
-      "id": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "name": "Vehicles",
-      "icon": 147,
-      "color": "#d6c499"
-    },
-    {
-      "id": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "name": "Collectibles",
-      "icon": 207,
-      "color": "#71cb71"
-    }
-  ],
-  "pins": [
-    {
-      "id": "7ca69b8a-e4a3-45eb-b222-4945b5acc1c9",
-      "name": "Vinewood Hills",
-      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
-      "note": "",
-      "lat": -4668.5,
-      "lng": 3234,
-      "collectible": false,
-      "hasRoute": true,
-      "isRace": true,
-      "route": [],
-      "race": {
-        "Лёгкий": {
-          "points": 0,
-          "seconds": 0,
-          "money": 357,
-          "xp": 22
+    "schemaVersion": 1,
+    "mapId": "drift-paradise",
+    "title": "Drift Paradise Interactive Map",
+    "categories": [
+        {
+            "id": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+            "name": "Race",
+            "icon": 38,
+            "color": "#ffffff"
         },
-        "Средний": {
-          "points": 47600,
-          "seconds": 0,
-          "money": 385,
-          "xp": 26
+        {
+            "id": "405b3665-82ab-4671-90f4-3565da3670dc",
+            "name": "Car Shop",
+            "icon": 825,
+            "color": "#c5a68c"
         },
-        "Сложный": {
-          "points": 61200,
-          "seconds": 81,
-          "money": 399,
-          "xp": 28
+        {
+            "id": "efcb0b5b-1aa8-4506-82fa-d0cbc7b6d9a9",
+            "name": "Parts Shop",
+            "icon": 402,
+            "color": "#c5a68c"
         },
-        "Профи": {
-          "points": 68000,
-          "seconds": 78,
-          "money": 420,
-          "xp": 28
+        {
+            "id": "731ae5e7-48de-407a-b3f7-1027d0509f92",
+            "name": "Sticker Shop",
+            "icon": 72,
+            "color": "#c5a68c"
+        },
+        {
+            "id": "2082b95e-b662-41b4-8062-df281c59fe2a",
+            "name": "Workshop",
+            "icon": 837,
+            "color": "#5db6e5"
+        },
+        {
+            "id": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "name": "Vehicles",
+            "icon": 147,
+            "color": "#d6c499"
+        },
+        {
+            "id": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "name": "Collectibles",
+            "icon": 207,
+            "color": "#71cb71"
         }
-      }
-    },
-    {
-      "id": "abdc5b4e-dc1d-4398-b859-7e74a9586f2b",
-      "name": "Place",
-      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
-      "note": "",
-      "lat": -7258,
-      "lng": 3719.75,
-      "collectible": false,
-      "hasRoute": true,
-      "isRace": true,
-      "route": [
+    ],
+    "pins": [
         {
-          "lat": -7255.75,
-          "lng": 3720.25,
-          "width": 8,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "7ca69b8a-e4a3-45eb-b222-4945b5acc1c9",
+            "name": "Vinewood Hills",
+            "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+            "note": "",
+            "lat": -4668.5,
+            "lng": 3234,
+            "collectible": false,
+            "hasRoute": true,
+            "isRace": true,
+            "route": [],
+            "race": {
+                "Лёгкий": {
+                    "points": 0,
+                    "seconds": 0,
+                    "money": 357,
+                    "xp": 22
+                },
+                "Средний": {
+                    "points": 47600,
+                    "seconds": 0,
+                    "money": 385,
+                    "xp": 26
+                },
+                "Сложный": {
+                    "points": 61200,
+                    "seconds": 81,
+                    "money": 399,
+                    "xp": 28
+                },
+                "Профи": {
+                    "points": 68000,
+                    "seconds": 78,
+                    "money": 420,
+                    "xp": 28
+                }
+            }
         },
         {
-          "lat": -7253.5,
-          "lng": 3759.25,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "abdc5b4e-dc1d-4398-b859-7e74a9586f2b",
+            "name": "Place",
+            "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+            "note": "",
+            "lat": -7258,
+            "lng": 3719.75,
+            "collectible": false,
+            "hasRoute": true,
+            "isRace": true,
+            "route": [
+                {
+                    "lat": -7255.75,
+                    "lng": 3720.25,
+                    "width": 8,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -7253.5,
+                    "lng": 3759.25,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -7245.5,
+                    "lng": 3795.25,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -7241.75,
+                    "lng": 3848.5,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -7220.25,
+                    "lng": 3871.5,
+                    "width": 4,
+                    "color": "#f6d34d"
+                },
+                {
+                    "lat": -7206,
+                    "lng": 3867,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -7154,
+                    "lng": 3862.25,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -7116.75,
+                    "lng": 3871.75,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -7104.5,
+                    "lng": 3898,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -7110.75,
+                    "lng": 3913.25,
+                    "width": 4,
+                    "color": "#f6d34d"
+                },
+                {
+                    "lat": -7127,
+                    "lng": 3918.25,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -7164.5,
+                    "lng": 3912.5,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -7192.5,
+                    "lng": 3921.5,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -7190.25,
+                    "lng": 3956,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -7179.25,
+                    "lng": 3978,
+                    "width": 4,
+                    "color": "#f6d34d"
+                },
+                {
+                    "lat": -7163,
+                    "lng": 3981,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -7144.25,
+                    "lng": 3977,
+                    "width": 4,
+                    "color": "#f6d34d"
+                },
+                {
+                    "lat": -7117.75,
+                    "lng": 3985.5,
+                    "width": 4,
+                    "color": "#f6d34d"
+                },
+                {
+                    "lat": -7093.5,
+                    "lng": 3985.75,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -7006.25,
+                    "lng": 3985.25,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -6961,
+                    "lng": 4005,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -6955.75,
+                    "lng": 4038.25,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -6909.75,
+                    "lng": 4079.25,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -6895,
+                    "lng": 4101,
+                    "width": 4,
+                    "color": "#f6d34d"
+                },
+                {
+                    "lat": -6894.25,
+                    "lng": 4127.75,
+                    "width": 4,
+                    "color": "#f6d34d"
+                },
+                {
+                    "lat": -6911,
+                    "lng": 4146,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -6957.5,
+                    "lng": 4150.25,
+                    "width": 4,
+                    "color": "#f6d34d"
+                },
+                {
+                    "lat": -7007.5,
+                    "lng": 4143.25,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -7029.75,
+                    "lng": 4129.75,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -7030.25,
+                    "lng": 4113,
+                    "width": 4,
+                    "color": "#f6d34d"
+                },
+                {
+                    "lat": -7015.75,
+                    "lng": 4096.5,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -6976.75,
+                    "lng": 4096.75,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                },
+                {
+                    "lat": -6935.25,
+                    "lng": 4101.75,
+                    "width": 4,
+                    "color": "#f6d34d",
+                    "icon": 1,
+                    "iconColor": "#f6d34d"
+                }
+            ],
+            "race": {
+                "Лёгкий": {
+                    "points": 0,
+                    "seconds": 0,
+                    "money": 297,
+                    "xp": 18
+                },
+                "Средний": {
+                    "points": 35000,
+                    "seconds": 0,
+                    "money": 322,
+                    "xp": 20
+                },
+                "Сложный": {
+                    "points": 45000,
+                    "seconds": 68,
+                    "money": 333,
+                    "xp": 22
+                },
+                "Профи": {
+                    "points": 50000,
+                    "seconds": 65,
+                    "money": 351,
+                    "xp": 22
+                }
+            }
         },
         {
-          "lat": -7245.5,
-          "lng": 3795.25,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "92efb8bc-2afe-4925-b98f-833f4621a332",
+            "name": "Vinewood Hills 2",
+            "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+            "note": "",
+            "lat": -5085.75,
+            "lng": 3392,
+            "collectible": false,
+            "hasRoute": true,
+            "isRace": true,
+            "route": [],
+            "race": {
+                "Лёгкий": {
+                    "points": 0,
+                    "seconds": 0,
+                    "money": 459,
+                    "xp": 30
+                },
+                "Средний": {
+                    "points": 63699,
+                    "seconds": 0,
+                    "money": 496,
+                    "xp": 32
+                },
+                "Сложный": {
+                    "points": 81900,
+                    "seconds": 105,
+                    "money": 513,
+                    "xp": 36
+                },
+                "Профи": {
+                    "points": 91000,
+                    "seconds": 100,
+                    "money": 540,
+                    "xp": 36
+                }
+            }
         },
         {
-          "lat": -7241.75,
-          "lng": 3848.5,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "34811914-15b4-4ca8-9187-a4e376ccc2a2",
+            "name": "Terminal",
+            "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+            "note": "",
+            "lat": -7510.75,
+            "lng": 4310.5,
+            "collectible": false,
+            "hasRoute": true,
+            "isRace": true,
+            "route": [],
+            "race": {
+                "Лёгкий": {
+                    "points": 0,
+                    "seconds": 0,
+                    "money": 255,
+                    "xp": 16
+                },
+                "Средний": {
+                    "points": 28000,
+                    "seconds": 0,
+                    "money": 276,
+                    "xp": 18
+                },
+                "Сложный": {
+                    "points": 36000,
+                    "seconds": 64,
+                    "money": 285,
+                    "xp": 20
+                },
+                "Профи": {
+                    "points": 40000,
+                    "seconds": 61,
+                    "money": 301,
+                    "xp": 20
+                }
+            }
         },
         {
-          "lat": -7220.25,
-          "lng": 3871.5,
-          "width": 4,
-          "color": "#f6d34d"
+            "id": "85335e03-aa52-483f-8db3-6eb965ca7718",
+            "name": "El Buro",
+            "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+            "note": "",
+            "lat": -7223.5,
+            "lng": 4530.75,
+            "collectible": false,
+            "hasRoute": true,
+            "isRace": true,
+            "route": [],
+            "race": {
+                "Лёгкий": {
+                    "points": 0,
+                    "seconds": 0,
+                    "money": 393,
+                    "xp": 24
+                },
+                "Средний": {
+                    "points": 56000,
+                    "seconds": 0,
+                    "money": 426,
+                    "xp": 28
+                },
+                "Сложный": {
+                    "points": 72000,
+                    "seconds": 94,
+                    "money": 439,
+                    "xp": 30
+                },
+                "Профи": {
+                    "points": 80000,
+                    "seconds": 90,
+                    "money": 463,
+                    "xp": 30
+                }
+            }
         },
         {
-          "lat": -7206,
-          "lng": 3867,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "182d6a47-cace-4812-94fb-1f113e0a9045",
+            "name": "Vinewood Centre",
+            "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+            "note": "",
+            "lat": -5296,
+            "lng": 3926,
+            "collectible": false,
+            "hasRoute": true,
+            "isRace": true,
+            "route": [],
+            "race": {
+                "Лёгкий": {
+                    "points": 0,
+                    "seconds": 0,
+                    "money": 481,
+                    "xp": 22
+                },
+                "Средний": {
+                    "points": 37100,
+                    "seconds": 0,
+                    "money": 519,
+                    "xp": 24
+                },
+                "Сложный": {
+                    "points": 47700,
+                    "seconds": 79,
+                    "money": 537,
+                    "xp": 26
+                },
+                "Профи": {
+                    "points": 53000,
+                    "seconds": 76,
+                    "money": 567,
+                    "xp": 26
+                }
+            }
         },
         {
-          "lat": -7154,
-          "lng": 3862.25,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "a8c9a03f-3e1a-434f-8160-0941d1c7bae7",
+            "name": "Pacific Blaffs Gas",
+            "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+            "note": "",
+            "lat": -5776.5,
+            "lng": 2386.25,
+            "collectible": false,
+            "hasRoute": true,
+            "isRace": true,
+            "route": [],
+            "race": {
+                "Лёгкий": {
+                    "points": 0,
+                    "seconds": 0,
+                    "money": 223,
+                    "xp": 14
+                },
+                "Средний": {
+                    "points": 16800,
+                    "seconds": 0,
+                    "money": 241,
+                    "xp": 16
+                },
+                "Сложный": {
+                    "points": 21600,
+                    "seconds": 52,
+                    "money": 250,
+                    "xp": 18
+                },
+                "Профи": {
+                    "points": 24000,
+                    "seconds": 50,
+                    "money": 264,
+                    "xp": 18
+                }
+            }
         },
         {
-          "lat": -7116.75,
-          "lng": 3871.75,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "ae1abbb6-4aa8-41a8-9ee8-1504d7f8d372",
+            "name": "Rockford Hills",
+            "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+            "note": "",
+            "lat": -5341.5,
+            "lng": 3042.25,
+            "collectible": false,
+            "hasRoute": true,
+            "isRace": true,
+            "route": [],
+            "race": {
+                "Лёгкий": {
+                    "points": 0,
+                    "seconds": 0,
+                    "money": 490,
+                    "xp": 32
+                },
+                "Средний": {
+                    "points": 73500,
+                    "seconds": 0,
+                    "money": 531,
+                    "xp": 34
+                },
+                "Сложный": {
+                    "points": 94500,
+                    "seconds": 117,
+                    "money": 547,
+                    "xp": 38
+                },
+                "Профи": {
+                    "points": 105000,
+                    "seconds": 112,
+                    "money": 577,
+                    "xp": 38
+                }
+            }
         },
         {
-          "lat": -7104.5,
-          "lng": 3898,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "0f841ef8-80c4-495d-af67-d5a962951af0",
+            "name": "Strawberry",
+            "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+            "note": "",
+            "lat": -6351.25,
+            "lng": 3683.25,
+            "collectible": false,
+            "hasRoute": true,
+            "isRace": true,
+            "route": [],
+            "race": {
+                "Лёгкий": {
+                    "points": 0,
+                    "seconds": 0,
+                    "money": 324,
+                    "xp": 22
+                },
+                "Средний": {
+                    "points": 40600,
+                    "seconds": 0,
+                    "money": 351,
+                    "xp": 24
+                },
+                "Сложный": {
+                    "points": 52200,
+                    "seconds": 84,
+                    "money": 363,
+                    "xp": 26
+                },
+                "Профи": {
+                    "points": 58000,
+                    "seconds": 80,
+                    "money": 382,
+                    "xp": 26
+                }
+            }
         },
         {
-          "lat": -7110.75,
-          "lng": 3913.25,
-          "width": 4,
-          "color": "#f6d34d"
+            "id": "5f9de276-0b47-47ae-affa-66d972ee0e63",
+            "name": "Chumash",
+            "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+            "note": "",
+            "lat": -4745.75,
+            "lng": 1721,
+            "collectible": false,
+            "hasRoute": true,
+            "isRace": true,
+            "route": [],
+            "race": {
+                "Лёгкий": {
+                    "points": 0,
+                    "seconds": 0,
+                    "money": 660,
+                    "xp": 44
+                },
+                "Средний": {
+                    "points": 133000,
+                    "seconds": 0,
+                    "money": 714,
+                    "xp": 48
+                },
+                "Сложный": {
+                    "points": 171000,
+                    "seconds": 166,
+                    "money": 738,
+                    "xp": 52
+                },
+                "Профи": {
+                    "points": 190000,
+                    "seconds": 159,
+                    "money": 777,
+                    "xp": 52
+                }
+            }
         },
         {
-          "lat": -7127,
-          "lng": 3918.25,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "ea4309c9-fe5f-4fa8-b081-33257bccdd66",
+            "name": "Jindjer Street",
+            "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+            "note": "",
+            "lat": -6191,
+            "lng": 3225,
+            "collectible": false,
+            "hasRoute": true,
+            "isRace": true,
+            "route": [],
+            "race": {
+                "Лёгкий": {
+                    "points": 0,
+                    "seconds": 0,
+                    "money": 132,
+                    "xp": 8
+                },
+                "Средний": {
+                    "points": 7699,
+                    "seconds": 0,
+                    "money": 142,
+                    "xp": 8
+                },
+                "Сложный": {
+                    "points": 9900,
+                    "seconds": 31,
+                    "money": 147,
+                    "xp": 10
+                },
+                "Профи": {
+                    "points": 11000,
+                    "seconds": 30,
+                    "money": 156,
+                    "xp": 10
+                }
+            }
         },
         {
-          "lat": -7164.5,
-          "lng": 3912.5,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "0b9595d8-396d-466a-ab3e-8f9e98450135",
+            "name": "Seul",
+            "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+            "note": "",
+            "lat": -5970.5,
+            "lng": 3394.75,
+            "collectible": false,
+            "hasRoute": true,
+            "isRace": true,
+            "route": [],
+            "race": {
+                "Лёгкий": {
+                    "points": 0,
+                    "seconds": 0,
+                    "money": 288,
+                    "xp": 10
+                },
+                "Средний": {
+                    "points": 16099,
+                    "seconds": 0,
+                    "money": 310,
+                    "xp": 12
+                },
+                "Сложный": {
+                    "points": 20700,
+                    "seconds": 47,
+                    "money": 321,
+                    "xp": 14
+                },
+                "Профи": {
+                    "points": 23000,
+                    "seconds": 45,
+                    "money": 339,
+                    "xp": 14
+                }
+            }
         },
         {
-          "lat": -7192.5,
-          "lng": 3921.5,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "21d4b448-048c-4482-9367-372e8fc587ee",
+            "name": "Vinewood",
+            "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+            "note": "",
+            "lat": -5034,
+            "lng": 4456.75,
+            "collectible": false,
+            "hasRoute": true,
+            "isRace": true,
+            "route": [],
+            "race": {
+                "Лёгкий": {
+                    "points": 0,
+                    "seconds": 0,
+                    "money": 1101,
+                    "xp": 72
+                },
+                "Средний": {
+                    "points": 230999,
+                    "seconds": 0,
+                    "money": 1191,
+                    "xp": 80
+                },
+                "Сложный": {
+                    "points": 297000,
+                    "seconds": 262,
+                    "money": 1230,
+                    "xp": 86
+                },
+                "Профи": {
+                    "points": 330000,
+                    "seconds": 250,
+                    "money": 1296,
+                    "xp": 86
+                }
+            }
         },
         {
-          "lat": -7190.25,
-          "lng": 3956,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "a593cf75-cd0e-4bde-9750-294cd0a71eb3",
+            "name": "Highway",
+            "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+            "note": "",
+            "lat": -4676.75,
+            "lng": 4865.5,
+            "collectible": false,
+            "hasRoute": true,
+            "isRace": true,
+            "route": [],
+            "race": {
+                "Лёгкий": {
+                    "points": 0,
+                    "seconds": 0,
+                    "money": 348,
+                    "xp": 14
+                },
+                "Средний": {
+                    "points": 18900,
+                    "seconds": 0,
+                    "money": 378,
+                    "xp": 16
+                },
+                "Сложный": {
+                    "points": 24300,
+                    "seconds": 54,
+                    "money": 388,
+                    "xp": 18
+                },
+                "Профи": {
+                    "points": 27000,
+                    "seconds": 52,
+                    "money": 411,
+                    "xp": 18
+                }
+            }
         },
         {
-          "lat": -7179.25,
-          "lng": 3978,
-          "width": 4,
-          "color": "#f6d34d"
+            "id": "a6a53373-edb3-4386-89b6-d4db1a03c810",
+            "name": "Sun-Shine",
+            "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+            "note": "",
+            "lat": -2616.5,
+            "lng": 5624.25,
+            "collectible": false,
+            "hasRoute": true,
+            "isRace": true,
+            "route": [],
+            "race": {
+                "Лёгкий": {
+                    "points": 0,
+                    "seconds": 0,
+                    "money": 562,
+                    "xp": 36
+                },
+                "Средний": {
+                    "points": 101500,
+                    "seconds": 0,
+                    "money": 609,
+                    "xp": 40
+                },
+                "Сложный": {
+                    "points": 130500,
+                    "seconds": 131,
+                    "money": 628,
+                    "xp": 44
+                },
+                "Профи": {
+                    "points": 145000,
+                    "seconds": 125,
+                    "money": 663,
+                    "xp": 44
+                }
+            }
         },
         {
-          "lat": -7163,
-          "lng": 3981,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "431f66de-5a5c-4c2e-96b8-f5e779880f03",
+            "name": "Freeride Sandy",
+            "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+            "note": "",
+            "lat": -3070.5,
+            "lng": 5110.75,
+            "collectible": false,
+            "hasRoute": true,
+            "isRace": true,
+            "route": [],
+            "race": {
+                "Лёгкий": {
+                    "points": 0,
+                    "seconds": 0,
+                    "money": 484,
+                    "xp": 32
+                },
+                "Средний": {
+                    "points": 69300,
+                    "seconds": 0,
+                    "money": 525,
+                    "xp": 34
+                },
+                "Сложный": {
+                    "points": 89100,
+                    "seconds": 113,
+                    "money": 541,
+                    "xp": 38
+                },
+                "Профи": {
+                    "points": 99000,
+                    "seconds": 108,
+                    "money": 571,
+                    "xp": 38
+                }
+            }
         },
         {
-          "lat": -7144.25,
-          "lng": 3977,
-          "width": 4,
-          "color": "#f6d34d"
+            "id": "53115224-096e-4bbd-98b1-6bd50b4a124a",
+            "name": "Casino",
+            "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+            "note": "",
+            "lat": -5687.25,
+            "lng": 4509.75,
+            "collectible": false,
+            "hasRoute": true,
+            "isRace": true,
+            "route": [],
+            "race": {
+                "Лёгкий": {
+                    "points": 0,
+                    "seconds": 0,
+                    "money": 201,
+                    "xp": 12
+                },
+                "Средний": {
+                    "points": 16800,
+                    "seconds": 0,
+                    "money": 217,
+                    "xp": 14
+                },
+                "Сложный": {
+                    "points": 21600,
+                    "seconds": 47,
+                    "money": 225,
+                    "xp": 16
+                },
+                "Профи": {
+                    "points": 24000,
+                    "seconds": 45,
+                    "money": 237,
+                    "xp": 16
+                }
+            }
         },
         {
-          "lat": -7117.75,
-          "lng": 3985.5,
-          "width": 4,
-          "color": "#f6d34d"
+            "id": "c0f14eed-0164-4ce7-a109-307d5735addb",
+            "name": "Pillbox Hill",
+            "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+            "note": "",
+            "lat": -5949.5,
+            "lng": 3593.75,
+            "collectible": false,
+            "hasRoute": true,
+            "isRace": true,
+            "route": [],
+            "race": {
+                "Лёгкий": {
+                    "points": 0,
+                    "seconds": 0,
+                    "money": 240,
+                    "xp": 10
+                },
+                "Средний": {
+                    "points": 11900,
+                    "seconds": 0,
+                    "money": 258,
+                    "xp": 10
+                },
+                "Сложный": {
+                    "points": 15300,
+                    "seconds": 36,
+                    "money": 267,
+                    "xp": 12
+                },
+                "Профи": {
+                    "points": 17000,
+                    "seconds": 35,
+                    "money": 283,
+                    "xp": 12
+                }
+            }
         },
         {
-          "lat": -7093.5,
-          "lng": 3985.75,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "d38d6542-5214-43f2-a9d4-e9c01b247f3d",
+            "name": "Spot 856",
+            "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+            "note": "",
+            "lat": -5471,
+            "lng": 4066.5,
+            "collectible": false,
+            "hasRoute": true,
+            "isRace": true,
+            "route": [],
+            "race": {
+                "Лёгкий": {
+                    "points": 0,
+                    "seconds": 0,
+                    "money": 324,
+                    "xp": 22
+                },
+                "Средний": {
+                    "points": 37800,
+                    "seconds": 0,
+                    "money": 351,
+                    "xp": 24
+                },
+                "Сложный": {
+                    "points": 48600,
+                    "seconds": 74,
+                    "money": 363,
+                    "xp": 26
+                },
+                "Профи": {
+                    "points": 54000,
+                    "seconds": 71,
+                    "money": 382,
+                    "xp": 26
+                }
+            }
         },
         {
-          "lat": -7006.25,
-          "lng": 3985.25,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "a6d11094-d37d-483f-a5e1-a3af0ba5d5dd",
+            "name": "Pacific Blaffs",
+            "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+            "note": "",
+            "lat": -5481.75,
+            "lng": 1840,
+            "collectible": false,
+            "hasRoute": true,
+            "isRace": true,
+            "route": [],
+            "race": {
+                "Лёгкий": {
+                    "points": 0,
+                    "seconds": 0,
+                    "money": 252,
+                    "xp": 16
+                },
+                "Средний": {
+                    "points": 26600,
+                    "seconds": 0,
+                    "money": 273,
+                    "xp": 18
+                },
+                "Сложный": {
+                    "points": 34200,
+                    "seconds": 57,
+                    "money": 282,
+                    "xp": 20
+                },
+                "Профи": {
+                    "points": 38000,
+                    "seconds": 55,
+                    "money": 297,
+                    "xp": 20
+                }
+            }
         },
         {
-          "lat": -6961,
-          "lng": 4005,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "25247d5c-c2ca-47c5-a1f8-60da99ddbf33",
+            "name": "Car Shop",
+            "categoryId": "405b3665-82ab-4671-90f4-3565da3670dc",
+            "note": "",
+            "lat": -6260.5,
+            "lng": 3724.75,
+            "collectible": false
         },
         {
-          "lat": -6955.75,
-          "lng": 4038.25,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "7d394251-898c-415f-9194-1f94d44c089e",
+            "name": "Car Shop",
+            "categoryId": "405b3665-82ab-4671-90f4-3565da3670dc",
+            "note": "",
+            "lat": -5689.5,
+            "lng": 3230,
+            "collectible": false
         },
         {
-          "lat": -6909.75,
-          "lng": 4079.25,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "26f910ce-d94a-4990-808d-9060d7327023",
+            "name": "Parts Shop",
+            "categoryId": "efcb0b5b-1aa8-4506-82fa-d0cbc7b6d9a9",
+            "note": "",
+            "lat": -6036.75,
+            "lng": 4510.5,
+            "collectible": false
         },
         {
-          "lat": -6895,
-          "lng": 4101,
-          "width": 4,
-          "color": "#f6d34d"
+            "id": "cae9c218-a255-4ebc-8733-e5638139317d",
+            "name": "Parts Shop",
+            "categoryId": "efcb0b5b-1aa8-4506-82fa-d0cbc7b6d9a9",
+            "note": "",
+            "lat": -5648,
+            "lng": 4108.25,
+            "collectible": false
         },
         {
-          "lat": -6894.25,
-          "lng": 4127.75,
-          "width": 4,
-          "color": "#f6d34d"
+            "id": "ae2103d8-8415-4db1-bfa8-1cff58b6b876",
+            "name": "Parts Shop",
+            "categoryId": "efcb0b5b-1aa8-4506-82fa-d0cbc7b6d9a9",
+            "note": "",
+            "lat": -2819.75,
+            "lng": 5407.75,
+            "collectible": false
         },
         {
-          "lat": -6911,
-          "lng": 4146,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "78df671c-ed87-4e07-b441-8a5e9069c825",
+            "name": "Sticker Shop",
+            "categoryId": "731ae5e7-48de-407a-b3f7-1027d0509f92",
+            "note": "",
+            "lat": -6837.25,
+            "lng": 3001.25,
+            "collectible": false
         },
         {
-          "lat": -6957.5,
-          "lng": 4150.25,
-          "width": 4,
-          "color": "#f6d34d"
+            "id": "63683f5e-d3e3-412e-941b-b638863d2ef3",
+            "name": "Sticker Shop",
+            "categoryId": "731ae5e7-48de-407a-b3f7-1027d0509f92",
+            "note": "",
+            "lat": -6246,
+            "lng": 4236,
+            "collectible": false
         },
         {
-          "lat": -7007.5,
-          "lng": 4143.25,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "cb2add5a-9dfe-4e89-b082-d1de6fac37e8",
+            "name": "Sticker Shop",
+            "categoryId": "731ae5e7-48de-407a-b3f7-1027d0509f92",
+            "note": "",
+            "lat": -5623.75,
+            "lng": 3520.25,
+            "collectible": false
         },
         {
-          "lat": -7029.75,
-          "lng": 4129.75,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "8f201166-2900-471f-8421-92787abcc33b",
+            "name": "Sticker Shop",
+            "categoryId": "731ae5e7-48de-407a-b3f7-1027d0509f92",
+            "note": "",
+            "lat": -3783,
+            "lng": 4532.5,
+            "collectible": false
         },
         {
-          "lat": -7030.25,
-          "lng": 4113,
-          "width": 4,
-          "color": "#f6d34d"
+            "id": "dbf5e62a-893f-469a-9ad9-aafddb0fa5dc",
+            "name": "Sticker Shop",
+            "categoryId": "731ae5e7-48de-407a-b3f7-1027d0509f92",
+            "note": "",
+            "lat": -1165.75,
+            "lng": 3825.5,
+            "collectible": false
         },
         {
-          "lat": -7015.75,
-          "lng": 4096.5,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "efccecc9-0eff-4307-988b-81ef977eced6",
+            "name": "Workshop",
+            "categoryId": "2082b95e-b662-41b4-8062-df281c59fe2a",
+            "note": "",
+            "lat": -7097.75,
+            "lng": 3315.25,
+            "collectible": false
         },
         {
-          "lat": -6976.75,
-          "lng": 4096.75,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "59e8fb87-0a07-4522-b751-5402156a4248",
+            "name": "Gymkhana",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Drift Tampa",
+            "lat": -7460.75,
+            "lng": 4293.25,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 662
         },
         {
-          "lat": -6935.25,
-          "lng": 4101.75,
-          "width": 4,
-          "color": "#f6d34d",
-          "icon": 1,
-          "iconColor": "#f6d34d"
+            "id": "caf6aa1c-970a-441e-b593-8da1ed850d81",
+            "name": "Ралли",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
+            "lat": -7215.75,
+            "lng": 4566,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "cbcccd84-722f-4969-9b69-c7b49d3b757f",
+            "name": "Ралли",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
+            "lat": -6153.75,
+            "lng": 5040.5,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "312dce5c-ba47-4ab4-af3b-1d7f79a12d74",
+            "name": "Ралли",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
+            "lat": -4807.25,
+            "lng": 5258,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 147
+        },
+        {
+            "id": "d7de577f-e7fc-4c16-afb5-9873f71f9527",
+            "name": "Мотокросс",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
+            "lat": -2151.25,
+            "lng": 5386,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 859
+        },
+        {
+            "id": "fdbe743a-67ec-4b73-b9f9-dac463880620",
+            "name": "Мотокросс",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
+            "lat": -1888,
+            "lng": 5384.25,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 859
+        },
+        {
+            "id": "190a67c5-2dac-46a1-8b35-eaf3a2df52ef",
+            "name": "Ралли",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
+            "lat": -1763,
+            "lng": 3366,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "1093b779-7107-465f-a6cf-264204c697c9",
+            "name": "Ралли",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
+            "lat": -1942.75,
+            "lng": 3213.25,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "01e085d0-3bcb-4acf-8983-fd22f8ba800e",
+            "name": "Ралли",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
+            "lat": -2252.5,
+            "lng": 2763,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "7a8a4199-b2d6-439c-8aa0-61c7c9c75011",
+            "name": "Ралли",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
+            "lat": -2593,
+            "lng": 2414.75,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "c281420d-39c7-4676-95ed-fb8e8674d28e",
+            "name": "Ралли",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
+            "lat": -3111.75,
+            "lng": 2114.75,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "c907bf8d-7cb6-4d74-a019-b81a818bddfe",
+            "name": "Самолёты",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Alpha-Z1\nMallard\nP-45 Nakota\nUltralight",
+            "lat": -7506.5,
+            "lng": 3116,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 251
+        },
+        {
+            "id": "32d1a8b5-9eca-492f-b50f-f4e72185dfa9",
+            "name": "Ралли",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
+            "lat": -4470.5,
+            "lng": 5421,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 147
+        },
+        {
+            "id": "9f5e425b-86bf-477b-b6b1-850352a433db",
+            "name": "Ралли",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
+            "lat": -5708.25,
+            "lng": 4592.75,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "6cd00c88-09f0-4339-8787-e433ba7e73b5",
+            "name": "Байки",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Zombie Bobber\nZombie Chopper\nWolfsbane\nRat Bike\nDaemon",
+            "lat": -5599.5,
+            "lng": 4397.25,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 226
+        },
+        {
+            "id": "17245022-e017-4ce2-98ff-0002e50e69ac",
+            "name": "Ралли",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
+            "lat": -4926.5,
+            "lng": 4419.25,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "42ede0c1-5556-40bd-ad54-af416311c3ae",
+            "name": "Ралли",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
+            "lat": -4929.75,
+            "lng": 4796.25,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "1082e766-fd7d-4eed-b904-a71d98673f5d",
+            "name": "Байки",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Zombie Bobber\nZombie Chopper\nWolfsbane\nRat Bike\nDaemon",
+            "lat": -3510,
+            "lng": 5079.5,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 226
+        },
+        {
+            "id": "4d0efd59-241d-49a2-bc8e-5e1e510b0b5c",
+            "name": "Самолёты",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Alpha-Z1\nMallard\nP-45 Nakota\nUltralight",
+            "lat": -3357,
+            "lng": 4904.75,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 251
+        },
+        {
+            "id": "dc040ea8-8cad-4842-bab0-f63c93de76de",
+            "name": "Мотокросс",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
+            "lat": -2505.25,
+            "lng": 4815.75,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 859
+        },
+        {
+            "id": "6ecbdca1-922a-4edc-8211-d8d0cf11b06e",
+            "name": "Мотокросс",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
+            "lat": -2554.25,
+            "lng": 4314.75,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 859
+        },
+        {
+            "id": "bd036aee-2e5c-4f67-83c5-36e07246fe92",
+            "name": "Мотокросс",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
+            "lat": -2728.25,
+            "lng": 4317.25,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 859
+        },
+        {
+            "id": "116ee0da-65c2-4d13-a787-699dda2396a9",
+            "name": "Мотокросс",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
+            "lat": -2601.5,
+            "lng": 3728.5,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 859
+        },
+        {
+            "id": "0585895d-6d8a-4022-9347-d6c1eac9cd1b",
+            "name": "Ралли",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
+            "lat": -3801.75,
+            "lng": 2998,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "19f8d488-6bfc-4921-9904-f45b98ba3e9f",
+            "name": "Ралли",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
+            "lat": -3628.75,
+            "lng": 3589,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "9703fe2c-a967-45f0-887f-e2579e843a4c",
+            "name": "Яхта Морти",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Её трудно найти, легко потерять и невозможно забыть",
+            "lat": -6024,
+            "lng": 2324,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 455
+        },
+        {
+            "id": "a1927b8c-1fca-4bdb-88f5-bf1424643140",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6036.5,
+            "lng": 3330.5,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "ceba1c2d-4277-4355-a27d-e4ce0ca6c8f7",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6344.5,
+            "lng": 2925.75,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "346a8bf9-2b12-401e-aca6-4deb1795939b",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5394.5,
+            "lng": 4193.25,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "7086f34a-dafd-443c-a1f2-bb093ef32a71",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6511.75,
+            "lng": 3922.75,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "72ecf8b4-cbfe-4ee0-a041-03880bd1d4fa",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6116.5,
+            "lng": 2623.5,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "2cc8e2d6-ea9a-4b71-830c-549309edb227",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -7274.75,
+            "lng": 3648.5,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "ab58bee0-e222-4b7e-8208-94a5bdd48701",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5667.75,
+            "lng": 3719.75,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "a4be4f77-6358-4ee6-bbdc-e8964cee8972",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5453.25,
+            "lng": 4073,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "1bcc8288-dfff-4398-9995-82a022cfca51",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6361.5,
+            "lng": 3943.25,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "dd746fc3-0c6d-4aef-950b-aea0c15010c2",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6022.25,
+            "lng": 3961,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "0f0848bd-64f2-46b5-8c43-b4cacc6bc8a7",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6417,
+            "lng": 4262,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "531a66d8-a3a4-4a3e-939e-155ebd22985d",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6000.5,
+            "lng": 4262.5,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "682cff66-4392-4320-ad55-d29a1ee5ae08",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6912.25,
+            "lng": 4447,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "d4a3ce99-25ff-417b-b2d6-c61bbaf26b84",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6601.25,
+            "lng": 4608.5,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "d465829b-7139-4569-99ce-06c4cb06beaf",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5980.5,
+            "lng": 4592.25,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "a13af176-07fd-4f41-ac1c-3574f0148e0f",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5616.5,
+            "lng": 4395.25,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "cb68e217-a698-49a2-aa5b-a18844805d25",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5842,
+            "lng": 2309.75,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "2fc678bb-dc14-4c7b-8cad-7e2417c202bf",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5962.75,
+            "lng": 4557,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "8e6951bc-ecd1-4f4c-afe2-b4ee924c593e",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5701.25,
+            "lng": 4312,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "89076256-2a45-4487-bd79-c011afd989a3",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5911.25,
+            "lng": 4062.25,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "dc5262d9-5de9-41b2-b9ee-bf20bc6d4919",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -7719.25,
+            "lng": 4570.5,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "2f0cc98a-9ebf-4bce-9cc2-48fcb4ac72ad",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -7208,
+            "lng": 3957.5,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "16efd2de-4855-462a-8599-930fa9dd3dc7",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6842.25,
+            "lng": 3907.75,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "49aca45f-8da1-45ac-aef6-ee45586c9608",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6852.5,
+            "lng": 3282.5,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "19be8b5e-74eb-4238-8e76-86b3b886d1ab",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -7157.25,
+            "lng": 3202,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "bda97de1-4d79-4bee-b313-c7c8802975f6",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -7412.5,
+            "lng": 2996.75,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "f1a4507c-f48b-421d-8719-2bdee6da130a",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6436,
+            "lng": 3250.75,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "77e9a5a6-70e7-4c8c-a842-d78d982c33f4",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5783.5,
+            "lng": 2949.75,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "611602d3-699d-4747-a8d3-012699e39d21",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5808,
+            "lng": 2620,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "7cef8da9-1902-4e5a-aecf-d0a8d8eb5224",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5399.5,
+            "lng": 2521,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "3cd49395-f718-45d9-85fc-642804bc1454",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5437.75,
+            "lng": 2869.5,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "73f45f7c-69bd-46cc-82dc-d28bddbbe1b0",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5394.5,
+            "lng": 3358.75,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "6103aa7f-9d4c-4fc7-814e-9d0d8403904f",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5715.5,
+            "lng": 3309.25,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "9bdf0d0a-2823-46a6-a761-64ea8ca254cb",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6078,
+            "lng": 3782.75,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "12d58c11-a233-4fdb-aef1-a67b314abb89",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6484,
+            "lng": 3558.25,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "f31701ef-4302-4113-a770-8c712e33ac86",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5575.5,
+            "lng": 3775.25,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "d5bd096a-2128-4792-861a-57533efb34c7",
+            "name": "Мотокросс",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
+            "lat": -1859.5,
+            "lng": 4095.75,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 859
+        },
+        {
+            "id": "94d36fa5-4c36-4976-9bd4-005625cdb4e4",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6155,
+            "lng": 2678,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "010de324-ad76-423b-badb-38d657c089eb",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -7574.25,
+            "lng": 4158,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "49428222-970d-41ce-aaa7-594eeb81ef2a",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -7070,
+            "lng": 3366.5,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "10d50ba1-b87e-4e2a-81f0-2c140d6f51dc",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6821.75,
+            "lng": 3001.5,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "8edeb3a9-265e-4c40-873b-7ca2024132e5",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6567.25,
+            "lng": 3365.25,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "becbad3f-23ce-4bbb-b3f3-9decddcdb8ed",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6118.75,
+            "lng": 3177.75,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "2e7ef3d4-482b-4a9f-8346-8374be06507a",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6453.5,
+            "lng": 2932.5,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "83bdd954-f604-4dfe-9604-f800538d8173",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5682,
+            "lng": 2927.75,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "b7ddcc41-16a9-4f9c-baf2-754cee3615e0",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5404,
+            "lng": 3156.25,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "edc3a14f-0f46-4be7-9e8d-bb23ba082a37",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5656.5,
+            "lng": 3433,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "d4cd6eb3-1ef5-4a8d-8755-499221a57951",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5398.75,
+            "lng": 3923,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "5c04b553-9270-4dd6-a2f8-e860a90a9d55",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5483.25,
+            "lng": 4370.75,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "84aa9ee8-aa37-4012-86b3-7b862ffcccba",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5851.25,
+            "lng": 4279.75,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "8f36b3ab-34a5-462d-a880-7fec4320a949",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6958.5,
+            "lng": 3712.75,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "debbab1b-60b9-4485-ace6-976952532f20",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6558,
+            "lng": 4529.75,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "848b8732-9bd2-4b44-8612-77ac34dc59bb",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6234.25,
+            "lng": 4315.25,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "d9bd5fe7-dc2d-4ae9-9b64-3ef1625723e3",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6527.5,
+            "lng": 4213.5,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "80ded208-0281-4754-bc11-5378aa838c95",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6109.25,
+            "lng": 3947.75,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "729b9668-0c83-405b-8c30-35a145e0afc9",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6452,
+            "lng": 3830,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "412c0311-eecf-4f39-8986-3d6fb070b2bd",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6745.25,
+            "lng": 3985.75,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "643d3eab-58e4-4060-af48-be39519880a6",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5715.25,
+            "lng": 3854.5,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "85fe4348-3911-47f6-b40f-aaad1a27ed25",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6221,
+            "lng": 3555,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "89a5aabd-f3ab-45c1-96f1-61abecb9b945",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6401.739643344773,
+            "lng": 3067.5,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "46fc9f11-79b2-49a6-943d-afa05b19bb61",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5752.230518291789,
+            "lng": 4596,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "3edc1035-ce19-41cd-afdd-3e7c992f0fdb",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6044.710827382762,
+            "lng": 4440.814648671594,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "d7d71705-c7d1-43a7-bc15-d2214c7b1f28",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5733.189479421945,
+            "lng": 3516.788742942726,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "347ad132-eecb-4a5e-b6b0-5c6f96f7960c",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5562.6987902801075,
+            "lng": 3150.5598491727187,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "dbd2819d-d52a-4256-88d2-4e3deb1b0a90",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5407.714308377044,
+            "lng": 3463.7908246530815,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "071c5e5d-74f0-428f-83a8-8320275837ec",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5444.202004743044,
+            "lng": 3804.5854657751484,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "f1fe615c-f261-4bbb-9c99-26f8c448eb64",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6725.294939433331,
+            "lng": 4374.6124123591935,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "c5dc43c3-3904-4b24-8b23-00e8c835996b",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6528.336838295061,
+            "lng": 3511.5762715544115,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "e99f567d-e73b-4261-9b49-f2ebb4762e85",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6253.135498613314,
+            "lng": 3767.3395713705713,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "66828146-113a-45f6-95ff-2164db70447a",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5712.539238616541,
+            "lng": 2776.289610322041,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "9bac4620-7111-40a5-b557-931600439330",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6121.479272256234,
+            "lng": 4074.7999610485303,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
         }
-      ],
-      "race": {
-        "Лёгкий": {
-          "points": 0,
-          "seconds": 0,
-          "money": 297,
-          "xp": 18
-        },
-        "Средний": {
-          "points": 35000,
-          "seconds": 0,
-          "money": 322,
-          "xp": 20
-        },
-        "Сложный": {
-          "points": 45000,
-          "seconds": 68,
-          "money": 333,
-          "xp": 22
-        },
-        "Профи": {
-          "points": 50000,
-          "seconds": 65,
-          "money": 351,
-          "xp": 22
-        }
-      }
-    },
-    {
-      "id": "92efb8bc-2afe-4925-b98f-833f4621a332",
-      "name": "Vinewood Hills 2",
-      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
-      "note": "",
-      "lat": -5085.75,
-      "lng": 3392,
-      "collectible": false,
-      "hasRoute": true,
-      "isRace": true,
-      "route": [],
-      "race": {
-        "Лёгкий": {
-          "points": 0,
-          "seconds": 0,
-          "money": 459,
-          "xp": 30
-        },
-        "Средний": {
-          "points": 63699,
-          "seconds": 0,
-          "money": 496,
-          "xp": 32
-        },
-        "Сложный": {
-          "points": 81900,
-          "seconds": 105,
-          "money": 513,
-          "xp": 36
-        },
-        "Профи": {
-          "points": 91000,
-          "seconds": 100,
-          "money": 540,
-          "xp": 36
-        }
-      }
-    },
-    {
-      "id": "34811914-15b4-4ca8-9187-a4e376ccc2a2",
-      "name": "Terminal",
-      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
-      "note": "",
-      "lat": -7510.75,
-      "lng": 4310.5,
-      "collectible": false,
-      "hasRoute": true,
-      "isRace": true,
-      "route": [],
-      "race": {
-        "Лёгкий": {
-          "points": 0,
-          "seconds": 0,
-          "money": 255,
-          "xp": 16
-        },
-        "Средний": {
-          "points": 28000,
-          "seconds": 0,
-          "money": 276,
-          "xp": 18
-        },
-        "Сложный": {
-          "points": 36000,
-          "seconds": 64,
-          "money": 285,
-          "xp": 20
-        },
-        "Профи": {
-          "points": 40000,
-          "seconds": 61,
-          "money": 301,
-          "xp": 20
-        }
-      }
-    },
-    {
-      "id": "85335e03-aa52-483f-8db3-6eb965ca7718",
-      "name": "El Buro",
-      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
-      "note": "",
-      "lat": -7223.5,
-      "lng": 4530.75,
-      "collectible": false,
-      "hasRoute": true,
-      "isRace": true,
-      "route": [],
-      "race": {
-        "Лёгкий": {
-          "points": 0,
-          "seconds": 0,
-          "money": 393,
-          "xp": 24
-        },
-        "Средний": {
-          "points": 56000,
-          "seconds": 0,
-          "money": 426,
-          "xp": 28
-        },
-        "Сложный": {
-          "points": 72000,
-          "seconds": 94,
-          "money": 439,
-          "xp": 30
-        },
-        "Профи": {
-          "points": 80000,
-          "seconds": 90,
-          "money": 463,
-          "xp": 30
-        }
-      }
-    },
-    {
-      "id": "182d6a47-cace-4812-94fb-1f113e0a9045",
-      "name": "Vinewood Centre",
-      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
-      "note": "",
-      "lat": -5296,
-      "lng": 3926,
-      "collectible": false,
-      "hasRoute": true,
-      "isRace": true,
-      "route": [],
-      "race": {
-        "Лёгкий": {
-          "points": 0,
-          "seconds": 0,
-          "money": 481,
-          "xp": 22
-        },
-        "Средний": {
-          "points": 37100,
-          "seconds": 0,
-          "money": 519,
-          "xp": 24
-        },
-        "Сложный": {
-          "points": 47700,
-          "seconds": 79,
-          "money": 537,
-          "xp": 26
-        },
-        "Профи": {
-          "points": 53000,
-          "seconds": 76,
-          "money": 567,
-          "xp": 26
-        }
-      }
-    },
-    {
-      "id": "a8c9a03f-3e1a-434f-8160-0941d1c7bae7",
-      "name": "Pacific Blaffs Gas",
-      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
-      "note": "",
-      "lat": -5776.5,
-      "lng": 2386.25,
-      "collectible": false,
-      "hasRoute": true,
-      "isRace": true,
-      "route": [],
-      "race": {
-        "Лёгкий": {
-          "points": 0,
-          "seconds": 0,
-          "money": 223,
-          "xp": 14
-        },
-        "Средний": {
-          "points": 16800,
-          "seconds": 0,
-          "money": 241,
-          "xp": 16
-        },
-        "Сложный": {
-          "points": 21600,
-          "seconds": 52,
-          "money": 250,
-          "xp": 18
-        },
-        "Профи": {
-          "points": 24000,
-          "seconds": 50,
-          "money": 264,
-          "xp": 18
-        }
-      }
-    },
-    {
-      "id": "ae1abbb6-4aa8-41a8-9ee8-1504d7f8d372",
-      "name": "Rockford Hills",
-      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
-      "note": "",
-      "lat": -5341.5,
-      "lng": 3042.25,
-      "collectible": false,
-      "hasRoute": true,
-      "isRace": true,
-      "route": [],
-      "race": {
-        "Лёгкий": {
-          "points": 0,
-          "seconds": 0,
-          "money": 490,
-          "xp": 32
-        },
-        "Средний": {
-          "points": 73500,
-          "seconds": 0,
-          "money": 531,
-          "xp": 34
-        },
-        "Сложный": {
-          "points": 94500,
-          "seconds": 117,
-          "money": 547,
-          "xp": 38
-        },
-        "Профи": {
-          "points": 105000,
-          "seconds": 112,
-          "money": 577,
-          "xp": 38
-        }
-      }
-    },
-    {
-      "id": "0f841ef8-80c4-495d-af67-d5a962951af0",
-      "name": "Strawberry",
-      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
-      "note": "",
-      "lat": -6351.25,
-      "lng": 3683.25,
-      "collectible": false,
-      "hasRoute": true,
-      "isRace": true,
-      "route": [],
-      "race": {
-        "Лёгкий": {
-          "points": 0,
-          "seconds": 0,
-          "money": 324,
-          "xp": 22
-        },
-        "Средний": {
-          "points": 40600,
-          "seconds": 0,
-          "money": 351,
-          "xp": 24
-        },
-        "Сложный": {
-          "points": 52200,
-          "seconds": 84,
-          "money": 363,
-          "xp": 26
-        },
-        "Профи": {
-          "points": 58000,
-          "seconds": 80,
-          "money": 382,
-          "xp": 26
-        }
-      }
-    },
-    {
-      "id": "5f9de276-0b47-47ae-affa-66d972ee0e63",
-      "name": "Chumash",
-      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
-      "note": "",
-      "lat": -4745.75,
-      "lng": 1721,
-      "collectible": false,
-      "hasRoute": true,
-      "isRace": true,
-      "route": [],
-      "race": {
-        "Лёгкий": {
-          "points": 0,
-          "seconds": 0,
-          "money": 660,
-          "xp": 44
-        },
-        "Средний": {
-          "points": 133000,
-          "seconds": 0,
-          "money": 714,
-          "xp": 48
-        },
-        "Сложный": {
-          "points": 171000,
-          "seconds": 166,
-          "money": 738,
-          "xp": 52
-        },
-        "Профи": {
-          "points": 190000,
-          "seconds": 159,
-          "money": 777,
-          "xp": 52
-        }
-      }
-    },
-    {
-      "id": "ea4309c9-fe5f-4fa8-b081-33257bccdd66",
-      "name": "Jindjer Street",
-      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
-      "note": "",
-      "lat": -6191,
-      "lng": 3225,
-      "collectible": false,
-      "hasRoute": true,
-      "isRace": true,
-      "route": [],
-      "race": {
-        "Лёгкий": {
-          "points": 0,
-          "seconds": 0,
-          "money": 132,
-          "xp": 8
-        },
-        "Средний": {
-          "points": 7699,
-          "seconds": 0,
-          "money": 142,
-          "xp": 8
-        },
-        "Сложный": {
-          "points": 9900,
-          "seconds": 31,
-          "money": 147,
-          "xp": 10
-        },
-        "Профи": {
-          "points": 11000,
-          "seconds": 30,
-          "money": 156,
-          "xp": 10
-        }
-      }
-    },
-    {
-      "id": "0b9595d8-396d-466a-ab3e-8f9e98450135",
-      "name": "Seul",
-      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
-      "note": "",
-      "lat": -5970.5,
-      "lng": 3394.75,
-      "collectible": false,
-      "hasRoute": true,
-      "isRace": true,
-      "route": [],
-      "race": {
-        "Лёгкий": {
-          "points": 0,
-          "seconds": 0,
-          "money": 288,
-          "xp": 10
-        },
-        "Средний": {
-          "points": 16099,
-          "seconds": 0,
-          "money": 310,
-          "xp": 12
-        },
-        "Сложный": {
-          "points": 20700,
-          "seconds": 47,
-          "money": 321,
-          "xp": 14
-        },
-        "Профи": {
-          "points": 23000,
-          "seconds": 45,
-          "money": 339,
-          "xp": 14
-        }
-      }
-    },
-    {
-      "id": "21d4b448-048c-4482-9367-372e8fc587ee",
-      "name": "Vinewood",
-      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
-      "note": "",
-      "lat": -5034,
-      "lng": 4456.75,
-      "collectible": false,
-      "hasRoute": true,
-      "isRace": true,
-      "route": [],
-      "race": {
-        "Лёгкий": {
-          "points": 0,
-          "seconds": 0,
-          "money": 1101,
-          "xp": 72
-        },
-        "Средний": {
-          "points": 230999,
-          "seconds": 0,
-          "money": 1191,
-          "xp": 80
-        },
-        "Сложный": {
-          "points": 297000,
-          "seconds": 262,
-          "money": 1230,
-          "xp": 86
-        },
-        "Профи": {
-          "points": 330000,
-          "seconds": 250,
-          "money": 1296,
-          "xp": 86
-        }
-      }
-    },
-    {
-      "id": "a593cf75-cd0e-4bde-9750-294cd0a71eb3",
-      "name": "Highway",
-      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
-      "note": "",
-      "lat": -4676.75,
-      "lng": 4865.5,
-      "collectible": false,
-      "hasRoute": true,
-      "isRace": true,
-      "route": [],
-      "race": {
-        "Лёгкий": {
-          "points": 0,
-          "seconds": 0,
-          "money": 348,
-          "xp": 14
-        },
-        "Средний": {
-          "points": 18900,
-          "seconds": 0,
-          "money": 378,
-          "xp": 16
-        },
-        "Сложный": {
-          "points": 24300,
-          "seconds": 54,
-          "money": 388,
-          "xp": 18
-        },
-        "Профи": {
-          "points": 27000,
-          "seconds": 52,
-          "money": 411,
-          "xp": 18
-        }
-      }
-    },
-    {
-      "id": "a6a53373-edb3-4386-89b6-d4db1a03c810",
-      "name": "Sun-Shine",
-      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
-      "note": "",
-      "lat": -2616.5,
-      "lng": 5624.25,
-      "collectible": false,
-      "hasRoute": true,
-      "isRace": true,
-      "route": [],
-      "race": {
-        "Лёгкий": {
-          "points": 0,
-          "seconds": 0,
-          "money": 562,
-          "xp": 36
-        },
-        "Средний": {
-          "points": 101500,
-          "seconds": 0,
-          "money": 609,
-          "xp": 40
-        },
-        "Сложный": {
-          "points": 130500,
-          "seconds": 131,
-          "money": 628,
-          "xp": 44
-        },
-        "Профи": {
-          "points": 145000,
-          "seconds": 125,
-          "money": 663,
-          "xp": 44
-        }
-      }
-    },
-    {
-      "id": "431f66de-5a5c-4c2e-96b8-f5e779880f03",
-      "name": "Freeride Sandy",
-      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
-      "note": "",
-      "lat": -3070.5,
-      "lng": 5110.75,
-      "collectible": false,
-      "hasRoute": true,
-      "isRace": true,
-      "route": [],
-      "race": {
-        "Лёгкий": {
-          "points": 0,
-          "seconds": 0,
-          "money": 484,
-          "xp": 32
-        },
-        "Средний": {
-          "points": 69300,
-          "seconds": 0,
-          "money": 525,
-          "xp": 34
-        },
-        "Сложный": {
-          "points": 89100,
-          "seconds": 113,
-          "money": 541,
-          "xp": 38
-        },
-        "Профи": {
-          "points": 99000,
-          "seconds": 108,
-          "money": 571,
-          "xp": 38
-        }
-      }
-    },
-    {
-      "id": "53115224-096e-4bbd-98b1-6bd50b4a124a",
-      "name": "Casino",
-      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
-      "note": "",
-      "lat": -5687.25,
-      "lng": 4509.75,
-      "collectible": false,
-      "hasRoute": true,
-      "isRace": true,
-      "route": [],
-      "race": {
-        "Лёгкий": {
-          "points": 0,
-          "seconds": 0,
-          "money": 201,
-          "xp": 12
-        },
-        "Средний": {
-          "points": 16800,
-          "seconds": 0,
-          "money": 217,
-          "xp": 14
-        },
-        "Сложный": {
-          "points": 21600,
-          "seconds": 47,
-          "money": 225,
-          "xp": 16
-        },
-        "Профи": {
-          "points": 24000,
-          "seconds": 45,
-          "money": 237,
-          "xp": 16
-        }
-      }
-    },
-    {
-      "id": "c0f14eed-0164-4ce7-a109-307d5735addb",
-      "name": "Pillbox Hill",
-      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
-      "note": "",
-      "lat": -5949.5,
-      "lng": 3593.75,
-      "collectible": false,
-      "hasRoute": true,
-      "isRace": true,
-      "route": [],
-      "race": {
-        "Лёгкий": {
-          "points": 0,
-          "seconds": 0,
-          "money": 240,
-          "xp": 10
-        },
-        "Средний": {
-          "points": 11900,
-          "seconds": 0,
-          "money": 258,
-          "xp": 10
-        },
-        "Сложный": {
-          "points": 15300,
-          "seconds": 36,
-          "money": 267,
-          "xp": 12
-        },
-        "Профи": {
-          "points": 17000,
-          "seconds": 35,
-          "money": 283,
-          "xp": 12
-        }
-      }
-    },
-    {
-      "id": "d38d6542-5214-43f2-a9d4-e9c01b247f3d",
-      "name": "Spot 856",
-      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
-      "note": "",
-      "lat": -5471,
-      "lng": 4066.5,
-      "collectible": false,
-      "hasRoute": true,
-      "isRace": true,
-      "route": [],
-      "race": {
-        "Лёгкий": {
-          "points": 0,
-          "seconds": 0,
-          "money": 324,
-          "xp": 22
-        },
-        "Средний": {
-          "points": 37800,
-          "seconds": 0,
-          "money": 351,
-          "xp": 24
-        },
-        "Сложный": {
-          "points": 48600,
-          "seconds": 74,
-          "money": 363,
-          "xp": 26
-        },
-        "Профи": {
-          "points": 54000,
-          "seconds": 71,
-          "money": 382,
-          "xp": 26
-        }
-      }
-    },
-    {
-      "id": "a6d11094-d37d-483f-a5e1-a3af0ba5d5dd",
-      "name": "Pacific Blaffs",
-      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
-      "note": "",
-      "lat": -5481.75,
-      "lng": 1840,
-      "collectible": false,
-      "hasRoute": true,
-      "isRace": true,
-      "route": [],
-      "race": {
-        "Лёгкий": {
-          "points": 0,
-          "seconds": 0,
-          "money": 252,
-          "xp": 16
-        },
-        "Средний": {
-          "points": 26600,
-          "seconds": 0,
-          "money": 273,
-          "xp": 18
-        },
-        "Сложный": {
-          "points": 34200,
-          "seconds": 57,
-          "money": 282,
-          "xp": 20
-        },
-        "Профи": {
-          "points": 38000,
-          "seconds": 55,
-          "money": 297,
-          "xp": 20
-        }
-      }
-    },
-    {
-      "id": "25247d5c-c2ca-47c5-a1f8-60da99ddbf33",
-      "name": "Car Shop",
-      "categoryId": "405b3665-82ab-4671-90f4-3565da3670dc",
-      "note": "",
-      "lat": -6260.5,
-      "lng": 3724.75,
-      "collectible": false
-    },
-    {
-      "id": "7d394251-898c-415f-9194-1f94d44c089e",
-      "name": "Car Shop",
-      "categoryId": "405b3665-82ab-4671-90f4-3565da3670dc",
-      "note": "",
-      "lat": -5689.5,
-      "lng": 3230,
-      "collectible": false
-    },
-    {
-      "id": "26f910ce-d94a-4990-808d-9060d7327023",
-      "name": "Parts Shop",
-      "categoryId": "efcb0b5b-1aa8-4506-82fa-d0cbc7b6d9a9",
-      "note": "",
-      "lat": -6036.75,
-      "lng": 4510.5,
-      "collectible": false
-    },
-    {
-      "id": "cae9c218-a255-4ebc-8733-e5638139317d",
-      "name": "Parts Shop",
-      "categoryId": "efcb0b5b-1aa8-4506-82fa-d0cbc7b6d9a9",
-      "note": "",
-      "lat": -5648,
-      "lng": 4108.25,
-      "collectible": false
-    },
-    {
-      "id": "ae2103d8-8415-4db1-bfa8-1cff58b6b876",
-      "name": "Parts Shop",
-      "categoryId": "efcb0b5b-1aa8-4506-82fa-d0cbc7b6d9a9",
-      "note": "",
-      "lat": -2819.75,
-      "lng": 5407.75,
-      "collectible": false
-    },
-    {
-      "id": "78df671c-ed87-4e07-b441-8a5e9069c825",
-      "name": "Sticker Shop",
-      "categoryId": "731ae5e7-48de-407a-b3f7-1027d0509f92",
-      "note": "",
-      "lat": -6837.25,
-      "lng": 3001.25,
-      "collectible": false
-    },
-    {
-      "id": "63683f5e-d3e3-412e-941b-b638863d2ef3",
-      "name": "Sticker Shop",
-      "categoryId": "731ae5e7-48de-407a-b3f7-1027d0509f92",
-      "note": "",
-      "lat": -6246,
-      "lng": 4236,
-      "collectible": false
-    },
-    {
-      "id": "cb2add5a-9dfe-4e89-b082-d1de6fac37e8",
-      "name": "Sticker Shop",
-      "categoryId": "731ae5e7-48de-407a-b3f7-1027d0509f92",
-      "note": "",
-      "lat": -5623.75,
-      "lng": 3520.25,
-      "collectible": false
-    },
-    {
-      "id": "8f201166-2900-471f-8421-92787abcc33b",
-      "name": "Sticker Shop",
-      "categoryId": "731ae5e7-48de-407a-b3f7-1027d0509f92",
-      "note": "",
-      "lat": -3783,
-      "lng": 4532.5,
-      "collectible": false
-    },
-    {
-      "id": "dbf5e62a-893f-469a-9ad9-aafddb0fa5dc",
-      "name": "Sticker Shop",
-      "categoryId": "731ae5e7-48de-407a-b3f7-1027d0509f92",
-      "note": "",
-      "lat": -1165.75,
-      "lng": 3825.5,
-      "collectible": false
-    },
-    {
-      "id": "efccecc9-0eff-4307-988b-81ef977eced6",
-      "name": "Workshop",
-      "categoryId": "2082b95e-b662-41b4-8062-df281c59fe2a",
-      "note": "",
-      "lat": -7097.75,
-      "lng": 3315.25,
-      "collectible": false
-    },
-    {
-      "id": "59e8fb87-0a07-4522-b751-5402156a4248",
-      "name": "Gymkhana",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Drift Tampa",
-      "lat": -7460.75,
-      "lng": 4293.25,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false,
-      "icon": 662
-    },
-    {
-      "id": "caf6aa1c-970a-441e-b593-8da1ed850d81",
-      "name": "Ралли",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
-      "lat": -7215.75,
-      "lng": 4566,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "cbcccd84-722f-4969-9b69-c7b49d3b757f",
-      "name": "Ралли",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
-      "lat": -6153.75,
-      "lng": 5040.5,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "312dce5c-ba47-4ab4-af3b-1d7f79a12d74",
-      "name": "Ралли",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
-      "lat": -4807.25,
-      "lng": 5258,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false,
-      "icon": 147
-    },
-    {
-      "id": "d7de577f-e7fc-4c16-afb5-9873f71f9527",
-      "name": "Мотокросс",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
-      "lat": -2151.25,
-      "lng": 5386,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false,
-      "icon": 859
-    },
-    {
-      "id": "fdbe743a-67ec-4b73-b9f9-dac463880620",
-      "name": "Мотокросс",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
-      "lat": -1888,
-      "lng": 5384.25,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false,
-      "icon": 859
-    },
-    {
-      "id": "190a67c5-2dac-46a1-8b35-eaf3a2df52ef",
-      "name": "Ралли",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
-      "lat": -1763,
-      "lng": 3366,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "1093b779-7107-465f-a6cf-264204c697c9",
-      "name": "Ралли",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
-      "lat": -1942.75,
-      "lng": 3213.25,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "01e085d0-3bcb-4acf-8983-fd22f8ba800e",
-      "name": "Ралли",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
-      "lat": -2252.5,
-      "lng": 2763,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "7a8a4199-b2d6-439c-8aa0-61c7c9c75011",
-      "name": "Ралли",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
-      "lat": -2593,
-      "lng": 2414.75,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "c281420d-39c7-4676-95ed-fb8e8674d28e",
-      "name": "Ралли",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
-      "lat": -3111.75,
-      "lng": 2114.75,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "c907bf8d-7cb6-4d74-a019-b81a818bddfe",
-      "name": "Самолёты",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Alpha-Z1\nMallard\nP-45 Nakota\nUltralight",
-      "lat": -7506.5,
-      "lng": 3116,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false,
-      "icon": 251
-    },
-    {
-      "id": "32d1a8b5-9eca-492f-b50f-f4e72185dfa9",
-      "name": "Ралли",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
-      "lat": -4470.5,
-      "lng": 5421,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false,
-      "icon": 147
-    },
-    {
-      "id": "9f5e425b-86bf-477b-b6b1-850352a433db",
-      "name": "Ралли",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
-      "lat": -5708.25,
-      "lng": 4592.75,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "6cd00c88-09f0-4339-8787-e433ba7e73b5",
-      "name": "Байки",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Zombie Bobber\nZombie Chopper\nWolfsbane\nRat Bike\nDaemon",
-      "lat": -5599.5,
-      "lng": 4397.25,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false,
-      "icon": 226
-    },
-    {
-      "id": "17245022-e017-4ce2-98ff-0002e50e69ac",
-      "name": "Ралли",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
-      "lat": -4926.5,
-      "lng": 4419.25,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "42ede0c1-5556-40bd-ad54-af416311c3ae",
-      "name": "Ралли",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
-      "lat": -4929.75,
-      "lng": 4796.25,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "1082e766-fd7d-4eed-b904-a71d98673f5d",
-      "name": "Байки",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Zombie Bobber\nZombie Chopper\nWolfsbane\nRat Bike\nDaemon",
-      "lat": -3510,
-      "lng": 5079.5,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false,
-      "icon": 226
-    },
-    {
-      "id": "4d0efd59-241d-49a2-bc8e-5e1e510b0b5c",
-      "name": "Самолёты",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Alpha-Z1\nMallard\nP-45 Nakota\nUltralight",
-      "lat": -3357,
-      "lng": 4904.75,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false,
-      "icon": 251
-    },
-    {
-      "id": "dc040ea8-8cad-4842-bab0-f63c93de76de",
-      "name": "Мотокросс",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
-      "lat": -2505.25,
-      "lng": 4815.75,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false,
-      "icon": 859
-    },
-    {
-      "id": "6ecbdca1-922a-4edc-8211-d8d0cf11b06e",
-      "name": "Мотокросс",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
-      "lat": -2554.25,
-      "lng": 4314.75,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false,
-      "icon": 859
-    },
-    {
-      "id": "bd036aee-2e5c-4f67-83c5-36e07246fe92",
-      "name": "Мотокросс",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
-      "lat": -2728.25,
-      "lng": 4317.25,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false,
-      "icon": 859
-    },
-    {
-      "id": "116ee0da-65c2-4d13-a787-699dda2396a9",
-      "name": "Мотокросс",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
-      "lat": -2601.5,
-      "lng": 3728.5,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false,
-      "icon": 859
-    },
-    {
-      "id": "0585895d-6d8a-4022-9347-d6c1eac9cd1b",
-      "name": "Ралли",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
-      "lat": -3801.75,
-      "lng": 2998,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "19f8d488-6bfc-4921-9904-f45b98ba3e9f",
-      "name": "Ралли",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
-      "lat": -3628.75,
-      "lng": 3589,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "9703fe2c-a967-45f0-887f-e2579e843a4c",
-      "name": "Яхта Морти",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Её трудно найти, легко потерять и невозможно забыть",
-      "lat": -6024,
-      "lng": 2324,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false,
-      "icon": 455
-    },
-    {
-      "id": "a1927b8c-1fca-4bdb-88f5-bf1424643140",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6036.5,
-      "lng": 3330.5,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "ceba1c2d-4277-4355-a27d-e4ce0ca6c8f7",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6344.5,
-      "lng": 2925.75,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "346a8bf9-2b12-401e-aca6-4deb1795939b",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5394.5,
-      "lng": 4193.25,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "7086f34a-dafd-443c-a1f2-bb093ef32a71",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6511.75,
-      "lng": 3922.75,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "72ecf8b4-cbfe-4ee0-a041-03880bd1d4fa",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6116.5,
-      "lng": 2623.5,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "2cc8e2d6-ea9a-4b71-830c-549309edb227",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -7274.75,
-      "lng": 3648.5,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "ab58bee0-e222-4b7e-8208-94a5bdd48701",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5667.75,
-      "lng": 3719.75,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "a4be4f77-6358-4ee6-bbdc-e8964cee8972",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5453.25,
-      "lng": 4073,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "1bcc8288-dfff-4398-9995-82a022cfca51",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6361.5,
-      "lng": 3943.25,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "dd746fc3-0c6d-4aef-950b-aea0c15010c2",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6022.25,
-      "lng": 3961,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "0f0848bd-64f2-46b5-8c43-b4cacc6bc8a7",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6417,
-      "lng": 4262,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "531a66d8-a3a4-4a3e-939e-155ebd22985d",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6000.5,
-      "lng": 4262.5,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "682cff66-4392-4320-ad55-d29a1ee5ae08",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6912.25,
-      "lng": 4447,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "d4a3ce99-25ff-417b-b2d6-c61bbaf26b84",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6601.25,
-      "lng": 4608.5,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "d465829b-7139-4569-99ce-06c4cb06beaf",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5980.5,
-      "lng": 4592.25,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "a13af176-07fd-4f41-ac1c-3574f0148e0f",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5616.5,
-      "lng": 4395.25,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "cb68e217-a698-49a2-aa5b-a18844805d25",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5842,
-      "lng": 2309.75,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "2fc678bb-dc14-4c7b-8cad-7e2417c202bf",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5962.75,
-      "lng": 4557,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "8e6951bc-ecd1-4f4c-afe2-b4ee924c593e",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5701.25,
-      "lng": 4312,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "89076256-2a45-4487-bd79-c011afd989a3",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5911.25,
-      "lng": 4062.25,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "dc5262d9-5de9-41b2-b9ee-bf20bc6d4919",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -7719.25,
-      "lng": 4570.5,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "2f0cc98a-9ebf-4bce-9cc2-48fcb4ac72ad",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -7208,
-      "lng": 3957.5,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "16efd2de-4855-462a-8599-930fa9dd3dc7",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6842.25,
-      "lng": 3907.75,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "49aca45f-8da1-45ac-aef6-ee45586c9608",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6852.5,
-      "lng": 3282.5,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "19be8b5e-74eb-4238-8e76-86b3b886d1ab",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -7157.25,
-      "lng": 3202,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "bda97de1-4d79-4bee-b313-c7c8802975f6",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -7412.5,
-      "lng": 2996.75,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "f1a4507c-f48b-421d-8719-2bdee6da130a",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6436,
-      "lng": 3250.75,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "77e9a5a6-70e7-4c8c-a842-d78d982c33f4",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5783.5,
-      "lng": 2949.75,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "611602d3-699d-4747-a8d3-012699e39d21",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5808,
-      "lng": 2620,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "7cef8da9-1902-4e5a-aecf-d0a8d8eb5224",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5399.5,
-      "lng": 2521,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "3cd49395-f718-45d9-85fc-642804bc1454",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5437.75,
-      "lng": 2869.5,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "73f45f7c-69bd-46cc-82dc-d28bddbbe1b0",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5394.5,
-      "lng": 3358.75,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "6103aa7f-9d4c-4fc7-814e-9d0d8403904f",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5715.5,
-      "lng": 3309.25,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "9bdf0d0a-2823-46a6-a761-64ea8ca254cb",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6078,
-      "lng": 3782.75,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "12d58c11-a233-4fdb-aef1-a67b314abb89",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6484,
-      "lng": 3558.25,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "f31701ef-4302-4113-a770-8c712e33ac86",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5575.5,
-      "lng": 3775.25,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "d5bd096a-2128-4792-861a-57533efb34c7",
-      "name": "Мотокросс",
-      "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-      "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
-      "lat": -1859.5,
-      "lng": 4095.75,
-      "collectible": false,
-      "hasRoute": false,
-      "isRace": false,
-      "icon": 859
-    },
-    {
-      "id": "94d36fa5-4c36-4976-9bd4-005625cdb4e4",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6155,
-      "lng": 2678,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "010de324-ad76-423b-badb-38d657c089eb",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -7574.25,
-      "lng": 4158,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "49428222-970d-41ce-aaa7-594eeb81ef2a",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -7070,
-      "lng": 3366.5,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "10d50ba1-b87e-4e2a-81f0-2c140d6f51dc",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6821.75,
-      "lng": 3001.5,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "8edeb3a9-265e-4c40-873b-7ca2024132e5",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6567.25,
-      "lng": 3365.25,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "becbad3f-23ce-4bbb-b3f3-9decddcdb8ed",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6118.75,
-      "lng": 3177.75,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "2e7ef3d4-482b-4a9f-8346-8374be06507a",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6453.5,
-      "lng": 2932.5,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "83bdd954-f604-4dfe-9604-f800538d8173",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5682,
-      "lng": 2927.75,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "b7ddcc41-16a9-4f9c-baf2-754cee3615e0",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5404,
-      "lng": 3156.25,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "edc3a14f-0f46-4be7-9e8d-bb23ba082a37",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5656.5,
-      "lng": 3433,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "d4cd6eb3-1ef5-4a8d-8755-499221a57951",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5398.75,
-      "lng": 3923,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "5c04b553-9270-4dd6-a2f8-e860a90a9d55",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5483.25,
-      "lng": 4370.75,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "84aa9ee8-aa37-4012-86b3-7b862ffcccba",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5851.25,
-      "lng": 4279.75,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "8f36b3ab-34a5-462d-a880-7fec4320a949",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6958.5,
-      "lng": 3712.75,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "debbab1b-60b9-4485-ace6-976952532f20",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6558,
-      "lng": 4529.75,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "848b8732-9bd2-4b44-8612-77ac34dc59bb",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6234.25,
-      "lng": 4315.25,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "d9bd5fe7-dc2d-4ae9-9b64-3ef1625723e3",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6527.5,
-      "lng": 4213.5,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "80ded208-0281-4754-bc11-5378aa838c95",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6109.25,
-      "lng": 3947.75,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "729b9668-0c83-405b-8c30-35a145e0afc9",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6452,
-      "lng": 3830,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "412c0311-eecf-4f39-8986-3d6fb070b2bd",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6745.25,
-      "lng": 3985.75,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "643d3eab-58e4-4060-af48-be39519880a6",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -5715.25,
-      "lng": 3854.5,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    },
-    {
-      "id": "85fe4348-3911-47f6-b40f-aaad1a27ed25",
-      "name": "Pickup",
-      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-      "note": "",
-      "lat": -6221,
-      "lng": 3555,
-      "collectible": true,
-      "hasRoute": false,
-      "isRace": false
-    }
-  ]
+    ]
 }
