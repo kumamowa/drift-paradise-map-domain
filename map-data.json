@@ -1154,6 +1154,18 @@
             "collectible": false
         },
         {
+            "id": "9703fe2c-a967-45f0-887f-e2579e843a4c",
+            "name": "Яхта Морти",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Её трудно найти, легко потерять и невозможно забыть.",
+            "lat": -6024,
+            "lng": 2324,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 455
+        },
+        {
             "id": "59e8fb87-0a07-4522-b751-5402156a4248",
             "name": "Gymkhana",
             "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
@@ -1164,6 +1176,138 @@
             "hasRoute": false,
             "isRace": false,
             "icon": 662
+        },
+        {
+            "id": "6cd00c88-09f0-4339-8787-e433ba7e73b5",
+            "name": "Байки",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Zombie Bobber\nZombie Chopper\nWolfsbane\nRat Bike\nDaemon",
+            "lat": -5599.5,
+            "lng": 4397.25,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 226
+        },
+        {
+            "id": "1082e766-fd7d-4eed-b904-a71d98673f5d",
+            "name": "Байки",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Zombie Bobber\nZombie Chopper\nWolfsbane\nRat Bike\nDaemon",
+            "lat": -3510,
+            "lng": 5079.5,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 226
+        },
+        {
+            "id": "c907bf8d-7cb6-4d74-a019-b81a818bddfe",
+            "name": "Самолёты",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Alpha-Z1\nMallard\nP-45 Nakota\nUltralight",
+            "lat": -7506.5,
+            "lng": 3116,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 251
+        },
+        {
+            "id": "4d0efd59-241d-49a2-bc8e-5e1e510b0b5c",
+            "name": "Самолёты",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Alpha-Z1\nMallard\nP-45 Nakota\nUltralight",
+            "lat": -3357,
+            "lng": 4904.75,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 251
+        },
+        {
+            "id": "d7de577f-e7fc-4c16-afb5-9873f71f9527",
+            "name": "Мотокросс",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
+            "lat": -2151.25,
+            "lng": 5386,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 859
+        },
+        {
+            "id": "fdbe743a-67ec-4b73-b9f9-dac463880620",
+            "name": "Мотокросс",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
+            "lat": -1888,
+            "lng": 5384.25,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 859
+        },
+        {
+            "id": "dc040ea8-8cad-4842-bab0-f63c93de76de",
+            "name": "Мотокросс",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
+            "lat": -2505.25,
+            "lng": 4815.75,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 859
+        },
+        {
+            "id": "6ecbdca1-922a-4edc-8211-d8d0cf11b06e",
+            "name": "Мотокросс",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
+            "lat": -2554.25,
+            "lng": 4314.75,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 859
+        },
+        {
+            "id": "bd036aee-2e5c-4f67-83c5-36e07246fe92",
+            "name": "Мотокросс",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
+            "lat": -2728.25,
+            "lng": 4317.25,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 859
+        },
+        {
+            "id": "116ee0da-65c2-4d13-a787-699dda2396a9",
+            "name": "Мотокросс",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
+            "lat": -2601.5,
+            "lng": 3728.5,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 859
+        },
+        {
+            "id": "d5bd096a-2128-4792-861a-57533efb34c7",
+            "name": "Мотокросс",
+            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
+            "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
+            "lat": -1859.5,
+            "lng": 4095.75,
+            "collectible": false,
+            "hasRoute": false,
+            "isRace": false,
+            "icon": 859
         },
         {
             "id": "caf6aa1c-970a-441e-b593-8da1ed850d81",
@@ -1198,30 +1342,6 @@
             "hasRoute": false,
             "isRace": false,
             "icon": 147
-        },
-        {
-            "id": "d7de577f-e7fc-4c16-afb5-9873f71f9527",
-            "name": "Мотокросс",
-            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-            "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
-            "lat": -2151.25,
-            "lng": 5386,
-            "collectible": false,
-            "hasRoute": false,
-            "isRace": false,
-            "icon": 859
-        },
-        {
-            "id": "fdbe743a-67ec-4b73-b9f9-dac463880620",
-            "name": "Мотокросс",
-            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-            "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
-            "lat": -1888,
-            "lng": 5384.25,
-            "collectible": false,
-            "hasRoute": false,
-            "isRace": false,
-            "icon": 859
         },
         {
             "id": "190a67c5-2dac-46a1-8b35-eaf3a2df52ef",
@@ -1279,18 +1399,6 @@
             "isRace": false
         },
         {
-            "id": "c907bf8d-7cb6-4d74-a019-b81a818bddfe",
-            "name": "Самолёты",
-            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-            "note": "Alpha-Z1\nMallard\nP-45 Nakota\nUltralight",
-            "lat": -7506.5,
-            "lng": 3116,
-            "collectible": false,
-            "hasRoute": false,
-            "isRace": false,
-            "icon": 251
-        },
-        {
             "id": "32d1a8b5-9eca-492f-b50f-f4e72185dfa9",
             "name": "Ралли",
             "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
@@ -1312,18 +1420,6 @@
             "collectible": false,
             "hasRoute": false,
             "isRace": false
-        },
-        {
-            "id": "6cd00c88-09f0-4339-8787-e433ba7e73b5",
-            "name": "Байки",
-            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-            "note": "Zombie Bobber\nZombie Chopper\nWolfsbane\nRat Bike\nDaemon",
-            "lat": -5599.5,
-            "lng": 4397.25,
-            "collectible": false,
-            "hasRoute": false,
-            "isRace": false,
-            "icon": 226
         },
         {
             "id": "17245022-e017-4ce2-98ff-0002e50e69ac",
@@ -1348,78 +1444,6 @@
             "isRace": false
         },
         {
-            "id": "1082e766-fd7d-4eed-b904-a71d98673f5d",
-            "name": "Байки",
-            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-            "note": "Zombie Bobber\nZombie Chopper\nWolfsbane\nRat Bike\nDaemon",
-            "lat": -3510,
-            "lng": 5079.5,
-            "collectible": false,
-            "hasRoute": false,
-            "isRace": false,
-            "icon": 226
-        },
-        {
-            "id": "4d0efd59-241d-49a2-bc8e-5e1e510b0b5c",
-            "name": "Самолёты",
-            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-            "note": "Alpha-Z1\nMallard\nP-45 Nakota\nUltralight",
-            "lat": -3357,
-            "lng": 4904.75,
-            "collectible": false,
-            "hasRoute": false,
-            "isRace": false,
-            "icon": 251
-        },
-        {
-            "id": "dc040ea8-8cad-4842-bab0-f63c93de76de",
-            "name": "Мотокросс",
-            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-            "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
-            "lat": -2505.25,
-            "lng": 4815.75,
-            "collectible": false,
-            "hasRoute": false,
-            "isRace": false,
-            "icon": 859
-        },
-        {
-            "id": "6ecbdca1-922a-4edc-8211-d8d0cf11b06e",
-            "name": "Мотокросс",
-            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-            "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
-            "lat": -2554.25,
-            "lng": 4314.75,
-            "collectible": false,
-            "hasRoute": false,
-            "isRace": false,
-            "icon": 859
-        },
-        {
-            "id": "bd036aee-2e5c-4f67-83c5-36e07246fe92",
-            "name": "Мотокросс",
-            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-            "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
-            "lat": -2728.25,
-            "lng": 4317.25,
-            "collectible": false,
-            "hasRoute": false,
-            "isRace": false,
-            "icon": 859
-        },
-        {
-            "id": "116ee0da-65c2-4d13-a787-699dda2396a9",
-            "name": "Мотокросс",
-            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-            "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
-            "lat": -2601.5,
-            "lng": 3728.5,
-            "collectible": false,
-            "hasRoute": false,
-            "isRace": false,
-            "icon": 859
-        },
-        {
             "id": "0585895d-6d8a-4022-9347-d6c1eac9cd1b",
             "name": "Ралли",
             "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
@@ -1429,29 +1453,6 @@
             "collectible": false,
             "hasRoute": false,
             "isRace": false
-        },
-        {
-            "id": "19f8d488-6bfc-4921-9904-f45b98ba3e9f",
-            "name": "Ралли",
-            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-            "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
-            "lat": -3628.75,
-            "lng": 3589,
-            "collectible": false,
-            "hasRoute": false,
-            "isRace": false
-        },
-        {
-            "id": "9703fe2c-a967-45f0-887f-e2579e843a4c",
-            "name": "Яхта Морти",
-            "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-            "note": "Её трудно найти, легко потерять и невозможно забыть.",
-            "lat": -6024,
-            "lng": 2324,
-            "collectible": false,
-            "hasRoute": false,
-            "isRace": false,
-            "icon": 455
         },
         {
             "id": "a1927b8c-1fca-4bdb-88f5-bf1424643140",
@@ -1850,16 +1851,15 @@
             "isRace": false
         },
         {
-            "id": "d5bd096a-2128-4792-861a-57533efb34c7",
-            "name": "Мотокросс",
+            "id": "19f8d488-6bfc-4921-9904-f45b98ba3e9f",
+            "name": "Ралли",
             "categoryId": "41411c80-ec1d-4a09-83ce-37c5a97db40b",
-            "note": "Scorcher\nManchez\nBlazer\nSanchez\nSanchez",
-            "lat": -1859.5,
-            "lng": 4095.75,
+            "note": "Sultan RS Classic\nDune Buggy\nBrawler\nDesert Raid\nBifta",
+            "lat": -3628.75,
+            "lng": 3589,
             "collectible": false,
             "hasRoute": false,
-            "isRace": false,
-            "icon": 859
+            "isRace": false
         },
         {
             "id": "94d36fa5-4c36-4976-9bd4-005625cdb4e4",
