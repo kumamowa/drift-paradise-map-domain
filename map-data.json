@@ -43,7 +43,158 @@
             "id": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
             "name": "Collectibles",
             "icon": 207,
-            "color": "#71cb71"
+            "color": "#71cb71",
+            "dated": {
+                "date": "2026-11-12",
+                "marks": [
+                    {
+                        "pinId": "e1dc49f3-ca1a-445c-985d-91c70ed71818",
+                        "icon": 207,
+                        "color": "#71cb71"
+                    },
+                    {
+                        "pinId": "682cff66-4392-4320-ad55-d29a1ee5ae08",
+                        "icon": 207,
+                        "color": "#ffd500"
+                    },
+                    {
+                        "pinId": "dc5262d9-5de9-41b2-b9ee-bf20bc6d4919",
+                        "icon": 207,
+                        "color": "#71cb71"
+                    },
+                    {
+                        "pinId": "010de324-ad76-423b-badb-38d657c089eb",
+                        "icon": 207,
+                        "color": "#ffd500"
+                    },
+                    {
+                        "pinId": "16ece31a-542b-443b-a9d5-7013eb3ce936",
+                        "icon": 207,
+                        "color": "#71cb71"
+                    },
+                    {
+                        "pinId": "848b8732-9bd2-4b44-8612-77ac34dc59bb",
+                        "icon": 207,
+                        "color": "#71cb71"
+                    },
+                    {
+                        "pinId": "84aa9ee8-aa37-4012-86b3-7b862ffcccba",
+                        "icon": 207,
+                        "color": "#ff1f1f"
+                    },
+                    {
+                        "pinId": "ecbd2d4e-9804-41eb-baf3-ff2a8c063432",
+                        "icon": 207,
+                        "color": "#71cb71"
+                    },
+                    {
+                        "pinId": "643d3eab-58e4-4060-af48-be39519880a6",
+                        "icon": 679,
+                        "color": "#7ac6ff"
+                    },
+                    {
+                        "pinId": "54244f3a-ef74-46f0-a03b-fdac47bcb522",
+                        "icon": 207,
+                        "color": "#ffd500"
+                    },
+                    {
+                        "pinId": "b7ddcc41-16a9-4f9c-baf2-754cee3615e0",
+                        "icon": 679,
+                        "color": "#7ac6ff"
+                    },
+                    {
+                        "pinId": "edc3a14f-0f46-4be7-9e8d-bb23ba082a37",
+                        "icon": 679,
+                        "color": "#7ac6ff"
+                    },
+                    {
+                        "pinId": "7cef8da9-1902-4e5a-aecf-d0a8d8eb5224",
+                        "icon": 207,
+                        "color": "#71cb71"
+                    },
+                    {
+                        "pinId": "6d9eb914-8960-43c2-bdd2-4f49472a4433",
+                        "icon": 207,
+                        "color": "#b35fb9"
+                    },
+                    {
+                        "pinId": "a92a4f6f-a7d6-4f97-8cc7-e7047a9805ed",
+                        "icon": 207,
+                        "color": "#71cb71"
+                    },
+                    {
+                        "pinId": "3875275a-0daf-4f87-8301-f6fde86c27b4",
+                        "icon": 207,
+                        "color": "#ffd500"
+                    },
+                    {
+                        "pinId": "2a9c4de8-3a04-4299-817c-6764712d3214",
+                        "icon": 207,
+                        "color": "#ffd500"
+                    },
+                    {
+                        "pinId": "effe853d-5a3e-45d8-a85a-1ce0ae391550",
+                        "icon": 679,
+                        "color": "#7ac6ff"
+                    },
+                    {
+                        "pinId": "4c580e9d-9877-4158-b830-42a24ff8990a",
+                        "icon": 207,
+                        "color": "#ffd500"
+                    },
+                    {
+                        "pinId": "9a82c827-e106-455f-8c8a-25d99a3c48dd",
+                        "icon": 207,
+                        "color": "#b35fb9"
+                    },
+                    {
+                        "pinId": "c5dc43c3-3904-4b24-8b23-00e8c835996b",
+                        "icon": 207,
+                        "color": "#71cb71"
+                    },
+                    {
+                        "pinId": "6c95cf33-e7ac-421d-9cea-822d51268b5e",
+                        "icon": 207,
+                        "color": "#71cb71"
+                    },
+                    {
+                        "pinId": "1bcc8288-dfff-4398-9995-82a022cfca51",
+                        "icon": 679,
+                        "color": "#7ac6ff"
+                    },
+                    {
+                        "pinId": "c287827c-202d-4c41-9e45-de7fbd0495bf",
+                        "icon": 207,
+                        "color": "#71cb71"
+                    },
+                    {
+                        "pinId": "15cf4a9e-4586-4bbe-99d1-7bc261241be6",
+                        "icon": 679,
+                        "color": "#7ac6ff"
+                    },
+                    {
+                        "pinId": "44050213-6364-41d5-a9bf-849cdb84beb3",
+                        "icon": 207,
+                        "color": "#71cb71"
+                    },
+                    {
+                        "pinId": "cae0f379-fa15-4b36-a731-d12f563bcfda",
+                        "icon": 679,
+                        "color": "#7ac6ff"
+                    },
+                    {
+                        "pinId": "f496efb0-8b67-474c-a3e8-253beb6e57e0",
+                        "icon": 207,
+                        "color": "#71cb71"
+                    },
+                    {
+                        "pinId": "c2a15d09-5749-4f53-9bc7-cadca4c3e152",
+                        "icon": 679,
+                        "color": "#7ac6ff"
+                    }
+                ]
+            },
+            "datedHistory": []
         }
     ],
     "pins": [
@@ -1547,8 +1698,8 @@
             "name": "Pickup",
             "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
             "note": "",
-            "lat": -6361.5,
-            "lng": 3943.25,
+            "lat": -6346.000332530649,
+            "lng": 3943.499479572411,
             "collectible": true,
             "hasRoute": false,
             "isRace": false
@@ -2429,6 +2580,193 @@
             "note": "",
             "lat": -5604.357460039061,
             "lng": 3500.4751926436684,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "16ece31a-542b-443b-a9d5-7013eb3ce936",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -7305.1787275976385,
+            "lng": 3813.797416735874,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "ecbd2d4e-9804-41eb-baf3-ff2a8c063432",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5395.01718075018,
+            "lng": 4003.2780452645106,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "54244f3a-ef74-46f0-a03b-fdac47bcb522",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5430.23780720955,
+            "lng": 3667.2724362116087,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "6d9eb914-8960-43c2-bdd2-4f49472a4433",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5746.912101065206,
+            "lng": 2854.27214708517,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "a92a4f6f-a7d6-4f97-8cc7-e7047a9805ed",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5964.500886748397,
+            "lng": 3370.7512143310405,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "3875275a-0daf-4f87-8301-f6fde86c27b4",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6009.174183012107,
+            "lng": 4011.356514179853,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "2a9c4de8-3a04-4299-817c-6764712d3214",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6612.94834690591,
+            "lng": 4100.792212459985,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "effe853d-5a3e-45d8-a85a-1ce0ae391550",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6959.683937244467,
+            "lng": 3504.525790078292,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "4c580e9d-9877-4158-b830-42a24ff8990a",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -7440.631951619728,
+            "lng": 3110.0171162851448,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "9a82c827-e106-455f-8c8a-25d99a3c48dd",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6934.743238543478,
+            "lng": 3036.540304225493,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "6c95cf33-e7ac-421d-9cea-822d51268b5e",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6187.531479568072,
+            "lng": 3667.812104358937,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "c287827c-202d-4c41-9e45-de7fbd0495bf",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6747.4511179946485,
+            "lng": 3785.829856722246,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "15cf4a9e-4586-4bbe-99d1-7bc261241be6",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6072.465084281892,
+            "lng": 3037.030300450729,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "44050213-6364-41d5-a9bf-849cdb84beb3",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5797.447681844612,
+            "lng": 2321.026137030018,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "cae0f379-fa15-4b36-a731-d12f563bcfda",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6139.104129888791,
+            "lng": 2634.5864488050383,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "f496efb0-8b67-474c-a3e8-253beb6e57e0",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -6465.542057501043,
+            "lng": 3053.6161131776034,
+            "collectible": true,
+            "hasRoute": false,
+            "isRace": false
+        },
+        {
+            "id": "c2a15d09-5749-4f53-9bc7-cadca4c3e152",
+            "name": "Pickup",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "",
+            "lat": -5995.905782982882,
+            "lng": 4590.076387204987,
             "collectible": true,
             "hasRoute": false,
             "isRace": false
