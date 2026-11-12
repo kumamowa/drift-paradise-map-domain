@@ -1760,17 +1760,6 @@
             "isRace": false
         },
         {
-            "id": "d465829b-7139-4569-99ce-06c4cb06beaf",
-            "name": "Pickup",
-            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
-            "note": "",
-            "lat": -5980.5,
-            "lng": 4592.25,
-            "collectible": true,
-            "hasRoute": false,
-            "isRace": false
-        },
-        {
             "id": "a13af176-07fd-4f41-ac1c-3574f0148e0f",
             "name": "Pickup",
             "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
