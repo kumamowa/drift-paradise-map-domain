@@ -2835,8 +2835,8 @@
                 }
             },
             "apiRecord": {
-                "player": "anxly",
-                "timeMs": 109169,
+                "player": "bdub",
+                "timeMs": 100949,
                 "xp": 380
             }
         },
@@ -5251,8 +5251,8 @@
                 }
             },
             "apiRecord": {
-                "player": "soqute",
-                "timeMs": 228538,
+                "player": "bdub",
+                "timeMs": 218303,
                 "xp": 860
             }
         },
@@ -167588,5 +167588,5 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-16T18:02:16+00:00"
+    "metricsUpdatedAt": "2026-11-16T19:02:19+00:00"
 }
