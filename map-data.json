@@ -5780,8 +5780,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "хапочка",
+                "timeMs": 34472,
                 "xp": 120
             }
         },
@@ -167588,5 +167588,5 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-16T13:01:21+00:00"
+    "metricsUpdatedAt": "2026-11-16T15:01:27+00:00"
 }
