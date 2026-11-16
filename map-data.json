@@ -5337,8 +5337,8 @@
                 }
             },
             "apiRecord": {
-                "player": "anxly",
-                "timeMs": 124481,
+                "player": "Kxktus",
+                "timeMs": 119949,
                 "xp": 440
             }
         },
@@ -5380,8 +5380,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "Kxktus",
+                "timeMs": 99038,
                 "xp": 380
             }
         },
@@ -167588,5 +167588,5 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-16T12:01:18+00:00"
+    "metricsUpdatedAt": "2026-11-16T13:01:21+00:00"
 }
