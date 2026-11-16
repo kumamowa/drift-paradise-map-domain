@@ -3957,8 +3957,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "FullHub",
+                "timeMs": 29277,
                 "xp": 100
             }
         },
@@ -167588,5 +167588,5 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-16T19:02:19+00:00"
+    "metricsUpdatedAt": "2026-11-16T21:02:25+00:00"
 }
