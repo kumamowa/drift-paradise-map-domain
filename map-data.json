@@ -6474,8 +6474,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "bdub",
+                "timeMs": 54464,
                 "xp": 200
             }
         },
@@ -168014,5 +168014,5 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-17T05:01:18+00:00"
+    "metricsUpdatedAt": "2026-11-17T06:01:21+00:00"
 }
