@@ -4009,8 +4009,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "Molochnik",
+                "timeMs": 148064,
                 "xp": 520
             }
         },
@@ -168014,5 +168014,5 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-17T02:01:11+00:00"
+    "metricsUpdatedAt": "2026-11-17T04:01:16+00:00"
 }
