@@ -1100,8 +1100,8 @@
                 }
             },
             "apiRecord": {
-                "player": "k0ff",
-                "timeMs": 77988,
+                "player": "vladyuha",
+                "timeMs": 75116,
                 "xp": 280
             }
         },
@@ -4009,8 +4009,8 @@
                 }
             },
             "apiRecord": {
-                "player": "Molochnik",
-                "timeMs": 148064,
+                "player": "vladyuha",
+                "timeMs": 146406,
                 "xp": 520
             }
         },
@@ -168014,5 +168014,5 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-17T14:01:56+00:00"
+    "metricsUpdatedAt": "2026-11-17T16:02:18+00:00"
 }
