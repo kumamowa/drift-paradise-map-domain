@@ -4113,8 +4113,8 @@
                 }
             },
             "apiRecord": {
-                "player": "FullHub",
-                "timeMs": 29277,
+                "player": "k0ff",
+                "timeMs": 25403,
                 "xp": 100
             }
         },
@@ -4307,8 +4307,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "k0ff",
+                "timeMs": 42997,
                 "xp": 140
             }
         },
@@ -5936,8 +5936,8 @@
                 }
             },
             "apiRecord": {
-                "player": "хапочка",
-                "timeMs": 34472,
+                "player": "k0ff",
+                "timeMs": 33356,
                 "xp": 120
             }
         },
@@ -168014,5 +168014,5 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-17T06:01:21+00:00"
+    "metricsUpdatedAt": "2026-11-17T13:01:50+00:00"
 }
