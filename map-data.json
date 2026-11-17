@@ -1100,8 +1100,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "k0ff",
+                "timeMs": 77988,
                 "xp": 280
             }
         },
@@ -168014,5 +168014,5 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-17T13:01:50+00:00"
+    "metricsUpdatedAt": "2026-11-17T14:01:56+00:00"
 }
