@@ -2106,8 +2106,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "хапочка",
+                "timeMs": 97519,
                 "xp": 360
             }
         },
@@ -169196,5 +169196,5 @@
             "isRace": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-18T16:01:52+00:00"
+    "metricsUpdatedAt": "2026-11-18T23:02:35+00:00"
 }
