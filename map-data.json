@@ -2420,8 +2420,8 @@
                 }
             },
             "apiRecord": {
-                "player": "bdub",
-                "timeMs": 56400,
+                "player": "gatt0",
+                "timeMs": 53076,
                 "xp": 200
             }
         },
@@ -3260,8 +3260,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "gatt0",
+                "timeMs": 44841,
                 "xp": 180
             }
         },
@@ -7230,8 +7230,8 @@
                 }
             },
             "apiRecord": {
-                "player": "bdub",
-                "timeMs": 70375,
+                "player": "gatt0",
+                "timeMs": 66081,
                 "xp": 260
             }
         },
@@ -169622,5 +169622,5 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-19T09:01:39+00:00"
+    "metricsUpdatedAt": "2026-11-19T21:02:51+00:00"
 }
