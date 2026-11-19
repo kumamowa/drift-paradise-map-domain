@@ -3048,8 +3048,8 @@
                 }
             },
             "apiRecord": {
-                "player": "bdub",
-                "timeMs": 68268,
+                "player": "крскгридл",
+                "timeMs": 67056,
                 "xp": 260
             }
         },
@@ -6812,8 +6812,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "крскгридл",
+                "timeMs": 44378,
                 "xp": 160
             }
         },
@@ -169622,5 +169622,5 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-19T07:01:30+00:00"
+    "metricsUpdatedAt": "2026-11-19T09:01:39+00:00"
 }
