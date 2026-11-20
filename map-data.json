@@ -6652,8 +6652,8 @@
                 }
             },
             "apiRecord": {
-                "player": "LBog",
-                "timeMs": 50541,
+                "player": "Игорян",
+                "timeMs": 49651,
                 "xp": 180
             }
         },
@@ -170048,6 +170048,6 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-20T02:01:11+00:00",
+    "metricsUpdatedAt": "2026-11-20T14:01:50+00:00",
     "loadingTips": []
 }
