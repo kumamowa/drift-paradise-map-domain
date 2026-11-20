@@ -6968,8 +6968,8 @@
                 }
             },
             "apiRecord": {
-                "player": "крскгридл",
-                "timeMs": 44378,
+                "player": "Игорян",
+                "timeMs": 43645,
                 "xp": 160
             }
         },
@@ -170048,6 +170048,6 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-20T14:01:50+00:00",
+    "metricsUpdatedAt": "2026-11-20T15:01:54+00:00",
     "loadingTips": []
 }
