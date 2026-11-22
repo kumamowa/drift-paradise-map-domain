@@ -1880,8 +1880,8 @@
                 }
             },
             "apiRecord": {
-                "player": "vladyuha",
-                "timeMs": 75116,
+                "player": "bdub",
+                "timeMs": 74180,
                 "xp": 280
             }
         },
@@ -5306,8 +5306,8 @@
                 }
             },
             "apiRecord": {
-                "player": "vladyuha",
-                "timeMs": 146406,
+                "player": "bdub",
+                "timeMs": 137422,
                 "xp": 520
             }
         },
@@ -7007,8 +7007,8 @@
                 }
             },
             "apiRecord": {
-                "player": "Kxktus",
-                "timeMs": 119949,
+                "player": "bdub",
+                "timeMs": 118574,
                 "xp": 440
             }
         },
@@ -170900,6 +170900,6 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-22T13:02:05+00:00",
+    "metricsUpdatedAt": "2026-11-22T14:02:16+00:00",
     "loadingTips": []
 }
