@@ -2730,8 +2730,8 @@
                 }
             },
             "apiRecord": {
-                "player": "хапочка",
-                "timeMs": 97519,
+                "player": "bdub",
+                "timeMs": 94891,
                 "xp": 360
             }
         },
@@ -170900,6 +170900,6 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-22T02:01:11+00:00",
+    "metricsUpdatedAt": "2026-11-22T13:02:05+00:00",
     "loadingTips": []
 }
