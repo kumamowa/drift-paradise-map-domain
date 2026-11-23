@@ -7206,8 +7206,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "gaijinish",
+                "timeMs": 101589,
                 "xp": 380
             }
         },
@@ -171326,6 +171326,6 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-23T11:02:32+00:00",
+    "metricsUpdatedAt": "2026-11-23T12:02:40+00:00",
     "loadingTips": []
 }
