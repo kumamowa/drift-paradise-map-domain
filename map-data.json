@@ -4444,8 +4444,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "KRYPTON",
+                "timeMs": 107114,
                 "xp": 380
             }
         },
@@ -171326,6 +171326,6 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-23T12:02:40+00:00",
+    "metricsUpdatedAt": "2026-11-23T16:03:17+00:00",
     "loadingTips": []
 }
