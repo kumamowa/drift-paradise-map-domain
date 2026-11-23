@@ -6860,8 +6860,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "BuSSi4eK",
+                "timeMs": 207117,
                 "xp": 860
             }
         },
@@ -171326,6 +171326,6 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-23T05:01:40+00:00",
+    "metricsUpdatedAt": "2026-11-23T11:02:32+00:00",
     "loadingTips": []
 }
