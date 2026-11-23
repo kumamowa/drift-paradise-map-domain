@@ -3672,8 +3672,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "крскгридл",
+                "timeMs": 69529,
                 "xp": 260
             }
         },
@@ -7854,8 +7854,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "крскгридл",
+                "timeMs": 70978,
                 "xp": 260
             }
         },
@@ -171326,6 +171326,6 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-23T16:03:17+00:00",
+    "metricsUpdatedAt": "2026-11-23T17:03:23+00:00",
     "loadingTips": []
 }
