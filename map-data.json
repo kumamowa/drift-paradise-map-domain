@@ -7163,8 +7163,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "bdub",
+                "timeMs": 118572,
                 "xp": 440
             }
         },
@@ -7436,8 +7436,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "bdub",
+                "timeMs": 44693,
                 "xp": 160
             }
         },
@@ -7606,8 +7606,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "bdub",
+                "timeMs": 34120,
                 "xp": 120
             }
         },
@@ -171326,6 +171326,6 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-23T02:01:16+00:00",
+    "metricsUpdatedAt": "2026-11-23T05:01:40+00:00",
     "loadingTips": []
 }
