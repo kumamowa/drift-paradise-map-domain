@@ -4040,8 +4040,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "Cheburator",
+                "timeMs": 45943,
                 "xp": 180
             }
         },
@@ -5722,8 +5722,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "Cheburator",
+                "timeMs": 28207,
                 "xp": 100
             }
         },
@@ -171752,6 +171752,6 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-24T10:01:58+00:00",
+    "metricsUpdatedAt": "2026-11-24T11:02:18+00:00",
     "loadingTips": []
 }
