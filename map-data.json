@@ -7362,8 +7362,8 @@
                 }
             },
             "apiRecord": {
-                "player": "Кактус",
-                "timeMs": 100159,
+                "player": "gaijinish",
+                "timeMs": 99662,
                 "xp": 380
             }
         },
@@ -171752,6 +171752,6 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-24T12:02:26+00:00",
+    "metricsUpdatedAt": "2026-11-24T19:03:24+00:00",
     "loadingTips": []
 }
