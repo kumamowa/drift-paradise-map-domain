@@ -4196,8 +4196,8 @@
                 }
             },
             "apiRecord": {
-                "player": "Cheburator",
-                "timeMs": 45943,
+                "player": "tissu",
+                "timeMs": 42474,
                 "xp": 180
             }
         },
@@ -172178,6 +172178,6 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-25T22:03:04+00:00",
+    "metricsUpdatedAt": "2026-11-25T23:03:20+00:00",
     "loadingTips": []
 }
