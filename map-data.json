@@ -7432,8 +7432,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "tissu",
+                "timeMs": 48678,
                 "xp": 180
             }
         },
@@ -172178,6 +172178,6 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-25T13:01:48+00:00",
+    "metricsUpdatedAt": "2026-11-25T22:03:04+00:00",
     "loadingTips": []
 }
