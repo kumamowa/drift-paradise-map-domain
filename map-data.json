@@ -3354,8 +3354,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "Scent",
+                "timeMs": 98550,
                 "xp": 360
             }
         },
@@ -172604,6 +172604,6 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-26T02:01:11+00:00",
+    "metricsUpdatedAt": "2026-11-26T15:03:34+00:00",
     "loadingTips": []
 }
