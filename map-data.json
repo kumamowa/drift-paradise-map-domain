@@ -3668,8 +3668,8 @@
                 }
             },
             "apiRecord": {
-                "player": "DankaKein",
-                "timeMs": 57279,
+                "player": "Scent",
+                "timeMs": 56843,
                 "xp": 200
             }
         },
@@ -173030,6 +173030,6 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-27T02:01:11+00:00",
+    "metricsUpdatedAt": "2026-11-27T20:03:22+00:00",
     "loadingTips": []
 }
