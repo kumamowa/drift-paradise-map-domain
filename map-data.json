@@ -4228,7 +4228,7 @@
                 }
             },
             "apiRecord": {
-                "player": "gaijinish",
+                "player": "equivalent",
                 "timeMs": 86560,
                 "xp": 300
             }
@@ -5514,7 +5514,7 @@
                 }
             },
             "apiRecord": {
-                "player": "gaijinish",
+                "player": "equivalent",
                 "timeMs": 71841,
                 "xp": 260
             }
@@ -6242,7 +6242,7 @@
                 }
             },
             "apiRecord": {
-                "player": "gaijinish",
+                "player": "equivalent",
                 "timeMs": 138343,
                 "xp": 520
             }
@@ -7986,7 +7986,7 @@
                 }
             },
             "apiRecord": {
-                "player": "gaijinish",
+                "player": "equivalent",
                 "timeMs": 99662,
                 "xp": 380
             }
@@ -8386,7 +8386,7 @@
                 }
             },
             "apiRecord": {
-                "player": "gaijinish",
+                "player": "equivalent",
                 "timeMs": 32950,
                 "xp": 120
             }
@@ -173456,6 +173456,6 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-28T18:04:18+00:00",
+    "metricsUpdatedAt": "2026-11-28T20:04:38+00:00",
     "loadingTips": []
 }
