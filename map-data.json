@@ -45,162 +45,318 @@
             "icon": 207,
             "color": "#71cb71",
             "dated": {
-                "date": "2026-11-27",
+                "date": "2026-11-28",
                 "marks": [
                     {
-                        "pinId": "api-pickup-2026-11-27-0",
+                        "pinId": "api-pickup-2026-11-28-0",
+                        "icon": 207,
+                        "color": "#71cb71"
+                    },
+                    {
+                        "pinId": "api-pickup-2026-11-28-1",
+                        "icon": 207,
+                        "color": "#71cb71"
+                    },
+                    {
+                        "pinId": "api-pickup-2026-11-28-2",
+                        "icon": 679,
+                        "color": "#7ac6ff"
+                    },
+                    {
+                        "pinId": "api-pickup-2026-11-28-3",
+                        "icon": 207,
+                        "color": "#71cb71"
+                    },
+                    {
+                        "pinId": "api-pickup-2026-11-28-4",
+                        "icon": 207,
+                        "color": "#71cb71"
+                    },
+                    {
+                        "pinId": "api-pickup-2026-11-28-5",
                         "icon": 207,
                         "color": "#ffd500"
                     },
                     {
-                        "pinId": "api-pickup-2026-11-27-1",
+                        "pinId": "api-pickup-2026-11-28-6",
                         "icon": 207,
                         "color": "#71cb71"
                     },
                     {
-                        "pinId": "api-pickup-2026-11-27-2",
-                        "icon": 679,
-                        "color": "#7ac6ff"
+                        "pinId": "api-pickup-2026-11-28-7",
+                        "icon": 207,
+                        "color": "#71cb71"
                     },
                     {
-                        "pinId": "api-pickup-2026-11-27-3",
+                        "pinId": "api-pickup-2026-11-28-8",
                         "icon": 207,
                         "color": "#b35fb9"
                     },
                     {
-                        "pinId": "api-pickup-2026-11-27-4",
+                        "pinId": "api-pickup-2026-11-28-9",
                         "icon": 207,
                         "color": "#71cb71"
                     },
                     {
-                        "pinId": "api-pickup-2026-11-27-5",
+                        "pinId": "api-pickup-2026-11-28-10",
                         "icon": 679,
                         "color": "#7ac6ff"
                     },
                     {
-                        "pinId": "api-pickup-2026-11-27-6",
+                        "pinId": "api-pickup-2026-11-28-11",
+                        "icon": 207,
+                        "color": "#71cb71"
+                    },
+                    {
+                        "pinId": "api-pickup-2026-11-28-12",
+                        "icon": 207,
+                        "color": "#71cb71"
+                    },
+                    {
+                        "pinId": "api-pickup-2026-11-28-13",
+                        "icon": 207,
+                        "color": "#b35fb9"
+                    },
+                    {
+                        "pinId": "api-pickup-2026-11-28-14",
                         "icon": 207,
                         "color": "#ffd500"
                     },
                     {
-                        "pinId": "api-pickup-2026-11-27-7",
+                        "pinId": "api-pickup-2026-11-28-15",
+                        "icon": 207,
+                        "color": "#ffd500"
+                    },
+                    {
+                        "pinId": "api-pickup-2026-11-28-16",
                         "icon": 207,
                         "color": "#71cb71"
                     },
                     {
-                        "pinId": "api-pickup-2026-11-27-8",
+                        "pinId": "api-pickup-2026-11-28-17",
+                        "icon": 207,
+                        "color": "#ffd500"
+                    },
+                    {
+                        "pinId": "api-pickup-2026-11-28-18",
                         "icon": 207,
                         "color": "#71cb71"
                     },
                     {
-                        "pinId": "api-pickup-2026-11-27-9",
+                        "pinId": "api-pickup-2026-11-28-19",
+                        "icon": 207,
+                        "color": "#ffd500"
+                    },
+                    {
+                        "pinId": "api-pickup-2026-11-28-20",
                         "icon": 679,
                         "color": "#7ac6ff"
                     },
                     {
-                        "pinId": "api-pickup-2026-11-27-10",
+                        "pinId": "api-pickup-2026-11-28-21",
                         "icon": 207,
-                        "color": "#71cb71"
+                        "color": "#ffd500"
                     },
                     {
-                        "pinId": "api-pickup-2026-11-27-11",
+                        "pinId": "api-pickup-2026-11-28-22",
                         "icon": 207,
-                        "color": "#71cb71"
+                        "color": "#ffd500"
                     },
                     {
-                        "pinId": "api-pickup-2026-11-27-12",
+                        "pinId": "api-pickup-2026-11-28-23",
                         "icon": 679,
                         "color": "#7ac6ff"
                     },
                     {
-                        "pinId": "api-pickup-2026-11-27-13",
+                        "pinId": "api-pickup-2026-11-28-24",
                         "icon": 207,
                         "color": "#71cb71"
                     },
                     {
-                        "pinId": "api-pickup-2026-11-27-14",
+                        "pinId": "api-pickup-2026-11-28-25",
+                        "icon": 207,
+                        "color": "#71cb71"
+                    },
+                    {
+                        "pinId": "api-pickup-2026-11-28-26",
                         "icon": 679,
                         "color": "#7ac6ff"
                     },
                     {
-                        "pinId": "api-pickup-2026-11-27-15",
+                        "pinId": "api-pickup-2026-11-28-27",
+                        "icon": 207,
+                        "color": "#ffd500"
+                    },
+                    {
+                        "pinId": "api-pickup-2026-11-28-28",
                         "icon": 207,
                         "color": "#71cb71"
                     },
                     {
-                        "pinId": "api-pickup-2026-11-27-16",
+                        "pinId": "api-pickup-2026-11-28-29",
                         "icon": 207,
                         "color": "#b35fb9"
-                    },
-                    {
-                        "pinId": "api-pickup-2026-11-27-17",
-                        "icon": 207,
-                        "color": "#ff1f1f"
-                    },
-                    {
-                        "pinId": "api-pickup-2026-11-27-18",
-                        "icon": 207,
-                        "color": "#71cb71"
-                    },
-                    {
-                        "pinId": "api-pickup-2026-11-27-19",
-                        "icon": 207,
-                        "color": "#71cb71"
-                    },
-                    {
-                        "pinId": "api-pickup-2026-11-27-20",
-                        "icon": 207,
-                        "color": "#71cb71"
-                    },
-                    {
-                        "pinId": "api-pickup-2026-11-27-21",
-                        "icon": 207,
-                        "color": "#71cb71"
-                    },
-                    {
-                        "pinId": "api-pickup-2026-11-27-22",
-                        "icon": 207,
-                        "color": "#b35fb9"
-                    },
-                    {
-                        "pinId": "api-pickup-2026-11-27-23",
-                        "icon": 207,
-                        "color": "#71cb71"
-                    },
-                    {
-                        "pinId": "api-pickup-2026-11-27-24",
-                        "icon": 207,
-                        "color": "#71cb71"
-                    },
-                    {
-                        "pinId": "api-pickup-2026-11-27-25",
-                        "icon": 207,
-                        "color": "#71cb71"
-                    },
-                    {
-                        "pinId": "api-pickup-2026-11-27-26",
-                        "icon": 207,
-                        "color": "#71cb71"
-                    },
-                    {
-                        "pinId": "api-pickup-2026-11-27-27",
-                        "icon": 207,
-                        "color": "#b35fb9"
-                    },
-                    {
-                        "pinId": "api-pickup-2026-11-27-28",
-                        "icon": 679,
-                        "color": "#7ac6ff"
-                    },
-                    {
-                        "pinId": "api-pickup-2026-11-27-29",
-                        "icon": 207,
-                        "color": "#71cb71"
                     }
                 ],
-                "updatedAt": "2026-11-27T02:01:11+00:00"
+                "updatedAt": "2026-11-28T02:01:20+00:00"
             },
             "datedHistory": [
+                {
+                    "date": "2026-11-27",
+                    "marks": [
+                        {
+                            "pinId": "api-pickup-2026-11-27-0",
+                            "icon": 207,
+                            "color": "#ffd500"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-1",
+                            "icon": 207,
+                            "color": "#71cb71"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-2",
+                            "icon": 679,
+                            "color": "#7ac6ff"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-3",
+                            "icon": 207,
+                            "color": "#b35fb9"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-4",
+                            "icon": 207,
+                            "color": "#71cb71"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-5",
+                            "icon": 679,
+                            "color": "#7ac6ff"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-6",
+                            "icon": 207,
+                            "color": "#ffd500"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-7",
+                            "icon": 207,
+                            "color": "#71cb71"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-8",
+                            "icon": 207,
+                            "color": "#71cb71"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-9",
+                            "icon": 679,
+                            "color": "#7ac6ff"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-10",
+                            "icon": 207,
+                            "color": "#71cb71"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-11",
+                            "icon": 207,
+                            "color": "#71cb71"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-12",
+                            "icon": 679,
+                            "color": "#7ac6ff"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-13",
+                            "icon": 207,
+                            "color": "#71cb71"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-14",
+                            "icon": 679,
+                            "color": "#7ac6ff"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-15",
+                            "icon": 207,
+                            "color": "#71cb71"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-16",
+                            "icon": 207,
+                            "color": "#b35fb9"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-17",
+                            "icon": 207,
+                            "color": "#ff1f1f"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-18",
+                            "icon": 207,
+                            "color": "#71cb71"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-19",
+                            "icon": 207,
+                            "color": "#71cb71"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-20",
+                            "icon": 207,
+                            "color": "#71cb71"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-21",
+                            "icon": 207,
+                            "color": "#71cb71"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-22",
+                            "icon": 207,
+                            "color": "#b35fb9"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-23",
+                            "icon": 207,
+                            "color": "#71cb71"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-24",
+                            "icon": 207,
+                            "color": "#71cb71"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-25",
+                            "icon": 207,
+                            "color": "#71cb71"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-26",
+                            "icon": 207,
+                            "color": "#71cb71"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-27",
+                            "icon": 207,
+                            "color": "#b35fb9"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-28",
+                            "icon": 679,
+                            "color": "#7ac6ff"
+                        },
+                        {
+                            "pinId": "api-pickup-2026-11-27-29",
+                            "icon": 207,
+                            "color": "#71cb71"
+                        }
+                    ],
+                    "updatedAt": "2026-11-27T02:01:11+00:00"
+                },
                 {
                     "date": "2026-11-26",
                     "marks": [
@@ -173028,8 +173184,278 @@
             "lat": -5837.6513000000004,
             "lng": 3035.9978999999998,
             "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-0",
+            "name": "Collectible 1",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -6748.5560999999998,
+            "lng": 3780.6705999999999,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-1",
+            "name": "Collectible 2",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -5397.3278,
+            "lng": 2513.5527999999999,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-2",
+            "name": "Collectible 3",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -5394.3028000000004,
+            "lng": 4186.7040999999999,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-3",
+            "name": "Collectible 4",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -7720.0781999999999,
+            "lng": 4565.2169999999996,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-4",
+            "name": "Collectible 5",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -7412.3370000000004,
+            "lng": 2996.3060999999998,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-5",
+            "name": "Collectible 6",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -6341.0070999999998,
+            "lng": 2919.7619,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-6",
+            "name": "Collectible 7",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -6646.6255000000001,
+            "lng": 4638.6022999999996,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-7",
+            "name": "Collectible 8",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -5391.2716,
+            "lng": 3351.0558000000001,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-8",
+            "name": "Collectible 9",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -5999.5154000000002,
+            "lng": 3794.9580000000001,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-9",
+            "name": "Collectible 10",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -5963.1504999999997,
+            "lng": 4552.0268999999998,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-10",
+            "name": "Collectible 11",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -6869.3140000000003,
+            "lng": 3156.6219000000001,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-11",
+            "name": "Collectible 12",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -5778.8487999999998,
+            "lng": 2940.5455000000002,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-12",
+            "name": "Collectible 13",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -7306.5343999999996,
+            "lng": 3808.3915999999999,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-13",
+            "name": "Collectible 14",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -6322.7362999999996,
+            "lng": 3408.3498,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-14",
+            "name": "Collectible 15",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -5840.0919999999996,
+            "lng": 2306.8458000000001,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-15",
+            "name": "Collectible 16",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -6381.8370000000004,
+            "lng": 4230.7084000000004,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-16",
+            "name": "Collectible 17",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -6865.6845000000003,
+            "lng": 4231.0465999999997,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-17",
+            "name": "Collectible 18",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -7577.0295999999998,
+            "lng": 4153.9448000000002,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-18",
+            "name": "Collectible 19",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -5567.8860000000004,
+            "lng": 3775.8152,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-19",
+            "name": "Collectible 20",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -5818.2672000000002,
+            "lng": 3373.6923999999999,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-20",
+            "name": "Collectible 21",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -6117.2475000000004,
+            "lng": 2619.4344000000001,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-21",
+            "name": "Collectible 22",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -6373.7219999999998,
+            "lng": 3780.3822,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-22",
+            "name": "Collectible 23",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -5434.4856,
+            "lng": 2865.681,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-23",
+            "name": "Collectible 24",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -6962.7927,
+            "lng": 3495.8761,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-24",
+            "name": "Collectible 25",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -5696.5596999999998,
+            "lng": 4308.5438000000004,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-25",
+            "name": "Collectible 26",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -6041.8789999999999,
+            "lng": 3136.8876,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-26",
+            "name": "Collectible 27",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -6645.1580000000004,
+            "lng": 3459.8564999999999,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-27",
+            "name": "Collectible 28",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -5807.7269999999999,
+            "lng": 2615.1703000000002,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-28",
+            "name": "Collectible 29",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -6072.7412000000004,
+            "lng": 4214.2543999999998,
+            "collectible": false
+        },
+        {
+            "id": "api-pickup-2026-11-28-29",
+            "name": "Collectible 30",
+            "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+            "note": "Подборка на 28.11.2026",
+            "lat": -5791.2354999999998,
+            "lng": 4014.7033999999999,
+            "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-27T21:03:27+00:00",
+    "metricsUpdatedAt": "2026-11-28T02:01:20+00:00",
     "loadingTips": []
 }
