@@ -2816,8 +2816,8 @@
                 }
             },
             "apiRecord": {
-                "player": null,
-                "timeMs": null,
+                "player": "Игорян",
+                "timeMs": 77811,
                 "xp": 280
             }
         },
@@ -173456,6 +173456,6 @@
             "collectible": false
         }
     ],
-    "metricsUpdatedAt": "2026-11-28T13:03:26+00:00",
+    "metricsUpdatedAt": "2026-11-28T18:04:18+00:00",
     "loadingTips": []
 }
